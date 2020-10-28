@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beautiful Parallax Demo's</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+    <section>
+        <div id="galaxy" data-tilt>
+            <div id="stars"></div>
+            <div id="planets">
+                Galaxy!
+            </div>
+        </div>
+    </section>
+    <script src="./assets/js/vanilla-tilt.min.js"></script>
+    <script>
+        const galaxy_stars = document.querySelector('#stars');
+        for (let i = 0; i < 500; i++) {
+            let star = document.createElement('div');
+            star.classList.add('star');
+            galaxy_stars.appendChild(star);
+        }
+    </script>
+</body>
+</html>
