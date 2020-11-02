@@ -12,7 +12,7 @@
 
 section {
   min-height: 100vh;
-  background: radial-gradient(#0d0711, #111);
+  background: radial-gradient(#2c183a, #111);
   overflow: hidden;
 }
 
@@ -39,4518 +39,4526 @@ section #galaxy #stars .star {
 }
 
 section #galaxy #stars .star:nth-child(1) {
-  width: 5px;
-  height: 5px;
-  top: 24%;
-  left: 43%;
-  -webkit-transform: translateZ(283px);
-          transform: translateZ(283px);
+  width: 3px;
+  height: 3px;
+  top: 14%;
+  left: 53%;
+  -webkit-transform: translateZ(215px);
+          transform: translateZ(215px);
 }
 
 section #galaxy #stars .star:nth-child(2) {
-  width: 3px;
-  height: 3px;
-  top: 84%;
-  left: 2%;
-  -webkit-transform: translateZ(382px);
-          transform: translateZ(382px);
+  width: 6px;
+  height: 6px;
+  top: 60%;
+  left: 27%;
+  -webkit-transform: translateZ(166px);
+          transform: translateZ(166px);
 }
 
 section #galaxy #stars .star:nth-child(3) {
-  width: 4px;
-  height: 4px;
-  top: 10%;
-  left: 55%;
-  -webkit-transform: translateZ(272px);
-          transform: translateZ(272px);
+  width: 3px;
+  height: 3px;
+  top: 16%;
+  left: 91%;
+  -webkit-transform: translateZ(196px);
+          transform: translateZ(196px);
 }
 
 section #galaxy #stars .star:nth-child(4) {
-  width: 3px;
-  height: 3px;
-  top: 57%;
-  left: 57%;
-  -webkit-transform: translateZ(348px);
-          transform: translateZ(348px);
+  width: 4px;
+  height: 4px;
+  top: 4%;
+  left: 5%;
+  -webkit-transform: translateZ(429px);
+          transform: translateZ(429px);
 }
 
 section #galaxy #stars .star:nth-child(5) {
   width: 2px;
   height: 2px;
-  top: 52%;
-  left: 12%;
-  -webkit-transform: translateZ(445px);
-          transform: translateZ(445px);
+  top: 4%;
+  left: 92%;
+  -webkit-transform: translateZ(342px);
+          transform: translateZ(342px);
 }
 
 section #galaxy #stars .star:nth-child(6) {
-  width: 3px;
-  height: 3px;
-  top: 42%;
-  left: 52%;
-  -webkit-transform: translateZ(318px);
-          transform: translateZ(318px);
+  width: 4px;
+  height: 4px;
+  top: 72%;
+  left: 77%;
+  -webkit-transform: translateZ(367px);
+          transform: translateZ(367px);
 }
 
 section #galaxy #stars .star:nth-child(7) {
-  width: 3px;
-  height: 3px;
-  top: 72%;
-  left: 13%;
-  -webkit-transform: translateZ(282px);
-          transform: translateZ(282px);
+  width: 6px;
+  height: 6px;
+  top: 46%;
+  left: 50%;
+  -webkit-transform: translateZ(195px);
+          transform: translateZ(195px);
 }
 
 section #galaxy #stars .star:nth-child(8) {
-  width: 4px;
-  height: 4px;
-  top: 85%;
-  left: 55%;
-  -webkit-transform: translateZ(281px);
-          transform: translateZ(281px);
+  width: 3px;
+  height: 3px;
+  top: 61%;
+  left: 87%;
+  -webkit-transform: translateZ(147px);
+          transform: translateZ(147px);
 }
 
 section #galaxy #stars .star:nth-child(9) {
   width: 3px;
   height: 3px;
-  top: 73%;
-  left: 68%;
-  -webkit-transform: translateZ(204px);
-          transform: translateZ(204px);
+  top: 41%;
+  left: 12%;
+  -webkit-transform: translateZ(12px);
+          transform: translateZ(12px);
 }
 
 section #galaxy #stars .star:nth-child(10) {
   width: 5px;
   height: 5px;
-  top: 66%;
-  left: 75%;
-  -webkit-transform: translateZ(162px);
-          transform: translateZ(162px);
+  top: 58%;
+  left: 36%;
+  -webkit-transform: translateZ(498px);
+          transform: translateZ(498px);
 }
 
 section #galaxy #stars .star:nth-child(11) {
-  width: 5px;
-  height: 5px;
-  top: 63%;
-  left: 41%;
-  -webkit-transform: translateZ(194px);
-          transform: translateZ(194px);
+  width: 4px;
+  height: 4px;
+  top: 50%;
+  left: 86%;
+  -webkit-transform: translateZ(313px);
+          transform: translateZ(313px);
 }
 
 section #galaxy #stars .star:nth-child(12) {
   width: 3px;
   height: 3px;
-  top: 93%;
-  left: 4%;
-  -webkit-transform: translateZ(391px);
-          transform: translateZ(391px);
+  top: 51%;
+  left: 67%;
+  -webkit-transform: translateZ(451px);
+          transform: translateZ(451px);
 }
 
 section #galaxy #stars .star:nth-child(13) {
   width: 2px;
   height: 2px;
-  top: 50%;
-  left: 41%;
-  -webkit-transform: translateZ(386px);
-          transform: translateZ(386px);
+  top: 30%;
+  left: 84%;
+  -webkit-transform: translateZ(176px);
+          transform: translateZ(176px);
 }
 
 section #galaxy #stars .star:nth-child(14) {
-  width: 2px;
-  height: 2px;
-  top: 60%;
-  left: 30%;
-  -webkit-transform: translateZ(194px);
-          transform: translateZ(194px);
+  width: 6px;
+  height: 6px;
+  top: 95%;
+  left: 49%;
+  -webkit-transform: translateZ(398px);
+          transform: translateZ(398px);
 }
 
 section #galaxy #stars .star:nth-child(15) {
-  width: 5px;
-  height: 5px;
-  top: 89%;
-  left: 62%;
-  -webkit-transform: translateZ(260px);
-          transform: translateZ(260px);
+  width: 4px;
+  height: 4px;
+  top: 76%;
+  left: 45%;
+  -webkit-transform: translateZ(46px);
+          transform: translateZ(46px);
 }
 
 section #galaxy #stars .star:nth-child(16) {
   width: 6px;
   height: 6px;
   top: 55%;
-  left: 7%;
-  -webkit-transform: translateZ(318px);
-          transform: translateZ(318px);
+  left: 30%;
+  -webkit-transform: translateZ(399px);
+          transform: translateZ(399px);
 }
 
 section #galaxy #stars .star:nth-child(17) {
-  width: 6px;
-  height: 6px;
-  top: 73%;
-  left: 76%;
-  -webkit-transform: translateZ(370px);
-          transform: translateZ(370px);
+  width: 4px;
+  height: 4px;
+  top: 3%;
+  left: 94%;
+  -webkit-transform: translateZ(462px);
+          transform: translateZ(462px);
 }
 
 section #galaxy #stars .star:nth-child(18) {
-  width: 4px;
-  height: 4px;
-  top: 9%;
-  left: 4%;
-  -webkit-transform: translateZ(432px);
-          transform: translateZ(432px);
+  width: 5px;
+  height: 5px;
+  top: 39%;
+  left: 61%;
+  -webkit-transform: translateZ(26px);
+          transform: translateZ(26px);
 }
 
 section #galaxy #stars .star:nth-child(19) {
-  width: 4px;
-  height: 4px;
-  top: 56%;
-  left: 62%;
-  -webkit-transform: translateZ(266px);
-          transform: translateZ(266px);
+  width: 6px;
+  height: 6px;
+  top: 24%;
+  left: 33%;
+  -webkit-transform: translateZ(278px);
+          transform: translateZ(278px);
 }
 
 section #galaxy #stars .star:nth-child(20) {
-  width: 2px;
-  height: 2px;
-  top: 48%;
-  left: 67%;
-  -webkit-transform: translateZ(336px);
-          transform: translateZ(336px);
+  width: 4px;
+  height: 4px;
+  top: 6%;
+  left: 15%;
+  -webkit-transform: translateZ(293px);
+          transform: translateZ(293px);
 }
 
 section #galaxy #stars .star:nth-child(21) {
   width: 2px;
   height: 2px;
-  top: 44%;
-  left: 37%;
-  -webkit-transform: translateZ(50px);
-          transform: translateZ(50px);
+  top: 11%;
+  left: 81%;
+  -webkit-transform: translateZ(31px);
+          transform: translateZ(31px);
 }
 
 section #galaxy #stars .star:nth-child(22) {
-  width: 5px;
-  height: 5px;
-  top: 43%;
-  left: 6%;
-  -webkit-transform: translateZ(165px);
-          transform: translateZ(165px);
+  width: 6px;
+  height: 6px;
+  top: 10%;
+  left: 90%;
+  -webkit-transform: translateZ(22px);
+          transform: translateZ(22px);
 }
 
 section #galaxy #stars .star:nth-child(23) {
   width: 4px;
   height: 4px;
-  top: 82%;
-  left: 65%;
-  -webkit-transform: translateZ(307px);
-          transform: translateZ(307px);
+  top: 31%;
+  left: 18%;
+  -webkit-transform: translateZ(11px);
+          transform: translateZ(11px);
 }
 
 section #galaxy #stars .star:nth-child(24) {
-  width: 2px;
-  height: 2px;
-  top: 37%;
-  left: 5%;
-  -webkit-transform: translateZ(174px);
-          transform: translateZ(174px);
+  width: 5px;
+  height: 5px;
+  top: 57%;
+  left: 72%;
+  -webkit-transform: translateZ(237px);
+          transform: translateZ(237px);
 }
 
 section #galaxy #stars .star:nth-child(25) {
   width: 6px;
   height: 6px;
-  top: 15%;
-  left: 49%;
-  -webkit-transform: translateZ(385px);
-          transform: translateZ(385px);
+  top: 76%;
+  left: 52%;
+  -webkit-transform: translateZ(236px);
+          transform: translateZ(236px);
 }
 
 section #galaxy #stars .star:nth-child(26) {
-  width: 2px;
-  height: 2px;
-  top: 62%;
-  left: 17%;
-  -webkit-transform: translateZ(212px);
-          transform: translateZ(212px);
+  width: 3px;
+  height: 3px;
+  top: 13%;
+  left: 86%;
+  -webkit-transform: translateZ(431px);
+          transform: translateZ(431px);
 }
 
 section #galaxy #stars .star:nth-child(27) {
-  width: 4px;
-  height: 4px;
-  top: 93%;
-  left: 51%;
-  -webkit-transform: translateZ(269px);
-          transform: translateZ(269px);
+  width: 3px;
+  height: 3px;
+  top: 17%;
+  left: 85%;
+  -webkit-transform: translateZ(491px);
+          transform: translateZ(491px);
 }
 
 section #galaxy #stars .star:nth-child(28) {
-  width: 6px;
-  height: 6px;
-  top: 6%;
-  left: 28%;
-  -webkit-transform: translateZ(105px);
-          transform: translateZ(105px);
+  width: 4px;
+  height: 4px;
+  top: 90%;
+  left: 81%;
+  -webkit-transform: translateZ(348px);
+          transform: translateZ(348px);
 }
 
 section #galaxy #stars .star:nth-child(29) {
-  width: 6px;
-  height: 6px;
-  top: 56%;
-  left: 39%;
-  -webkit-transform: translateZ(80px);
-          transform: translateZ(80px);
+  width: 3px;
+  height: 3px;
+  top: 72%;
+  left: 77%;
+  -webkit-transform: translateZ(214px);
+          transform: translateZ(214px);
 }
 
 section #galaxy #stars .star:nth-child(30) {
-  width: 3px;
-  height: 3px;
-  top: 93%;
-  left: 66%;
-  -webkit-transform: translateZ(334px);
-          transform: translateZ(334px);
+  width: 6px;
+  height: 6px;
+  top: 34%;
+  left: 57%;
+  -webkit-transform: translateZ(74px);
+          transform: translateZ(74px);
 }
 
 section #galaxy #stars .star:nth-child(31) {
-  width: 3px;
-  height: 3px;
-  top: 36%;
-  left: 53%;
-  -webkit-transform: translateZ(173px);
-          transform: translateZ(173px);
+  width: 2px;
+  height: 2px;
+  top: 67%;
+  left: 84%;
+  -webkit-transform: translateZ(297px);
+          transform: translateZ(297px);
 }
 
 section #galaxy #stars .star:nth-child(32) {
-  width: 5px;
-  height: 5px;
-  top: 43%;
-  left: 39%;
-  -webkit-transform: translateZ(353px);
-          transform: translateZ(353px);
+  width: 2px;
+  height: 2px;
+  top: 7%;
+  left: 13%;
+  -webkit-transform: translateZ(34px);
+          transform: translateZ(34px);
 }
 
 section #galaxy #stars .star:nth-child(33) {
-  width: 4px;
-  height: 4px;
-  top: 86%;
-  left: 86%;
-  -webkit-transform: translateZ(327px);
-          transform: translateZ(327px);
+  width: 6px;
+  height: 6px;
+  top: 3%;
+  left: 51%;
+  -webkit-transform: translateZ(252px);
+          transform: translateZ(252px);
 }
 
 section #galaxy #stars .star:nth-child(34) {
   width: 4px;
   height: 4px;
-  top: 1%;
-  left: 85%;
-  -webkit-transform: translateZ(404px);
-          transform: translateZ(404px);
+  top: 21%;
+  left: 47%;
+  -webkit-transform: translateZ(328px);
+          transform: translateZ(328px);
 }
 
 section #galaxy #stars .star:nth-child(35) {
   width: 3px;
   height: 3px;
-  top: 81%;
-  left: 47%;
-  -webkit-transform: translateZ(322px);
-          transform: translateZ(322px);
+  top: 50%;
+  left: 18%;
+  -webkit-transform: translateZ(52px);
+          transform: translateZ(52px);
 }
 
 section #galaxy #stars .star:nth-child(36) {
-  width: 2px;
-  height: 2px;
-  top: 78%;
-  left: 76%;
-  -webkit-transform: translateZ(487px);
-          transform: translateZ(487px);
+  width: 4px;
+  height: 4px;
+  top: 64%;
+  left: 12%;
+  -webkit-transform: translateZ(133px);
+          transform: translateZ(133px);
 }
 
 section #galaxy #stars .star:nth-child(37) {
-  width: 5px;
-  height: 5px;
-  top: 26%;
-  left: 80%;
-  -webkit-transform: translateZ(383px);
-          transform: translateZ(383px);
+  width: 6px;
+  height: 6px;
+  top: 85%;
+  left: 69%;
+  -webkit-transform: translateZ(297px);
+          transform: translateZ(297px);
 }
 
 section #galaxy #stars .star:nth-child(38) {
-  width: 4px;
-  height: 4px;
-  top: 7%;
-  left: 21%;
-  -webkit-transform: translateZ(479px);
-          transform: translateZ(479px);
+  width: 3px;
+  height: 3px;
+  top: 33%;
+  left: 74%;
+  -webkit-transform: translateZ(77px);
+          transform: translateZ(77px);
 }
 
 section #galaxy #stars .star:nth-child(39) {
-  width: 2px;
-  height: 2px;
-  top: 45%;
-  left: 73%;
-  -webkit-transform: translateZ(118px);
-          transform: translateZ(118px);
+  width: 4px;
+  height: 4px;
+  top: 84%;
+  left: 35%;
+  -webkit-transform: translateZ(32px);
+          transform: translateZ(32px);
 }
 
 section #galaxy #stars .star:nth-child(40) {
-  width: 5px;
-  height: 5px;
-  top: 16%;
-  left: 85%;
-  -webkit-transform: translateZ(351px);
-          transform: translateZ(351px);
+  width: 2px;
+  height: 2px;
+  top: 39%;
+  left: 28%;
+  -webkit-transform: translateZ(143px);
+          transform: translateZ(143px);
 }
 
 section #galaxy #stars .star:nth-child(41) {
-  width: 2px;
-  height: 2px;
-  top: 1%;
-  left: 85%;
-  -webkit-transform: translateZ(449px);
-          transform: translateZ(449px);
+  width: 3px;
+  height: 3px;
+  top: 85%;
+  left: 46%;
+  -webkit-transform: translateZ(274px);
+          transform: translateZ(274px);
 }
 
 section #galaxy #stars .star:nth-child(42) {
-  width: 3px;
-  height: 3px;
-  top: 93%;
-  left: 19%;
-  -webkit-transform: translateZ(137px);
-          transform: translateZ(137px);
+  width: 4px;
+  height: 4px;
+  top: 7%;
+  left: 13%;
+  -webkit-transform: translateZ(13px);
+          transform: translateZ(13px);
 }
 
 section #galaxy #stars .star:nth-child(43) {
-  width: 5px;
-  height: 5px;
-  top: 81%;
-  left: 43%;
-  -webkit-transform: translateZ(111px);
-          transform: translateZ(111px);
+  width: 3px;
+  height: 3px;
+  top: 65%;
+  left: 55%;
+  -webkit-transform: translateZ(240px);
+          transform: translateZ(240px);
 }
 
 section #galaxy #stars .star:nth-child(44) {
-  width: 4px;
-  height: 4px;
-  top: 44%;
-  left: 30%;
-  -webkit-transform: translateZ(185px);
-          transform: translateZ(185px);
+  width: 5px;
+  height: 5px;
+  top: 20%;
+  left: 84%;
+  -webkit-transform: translateZ(191px);
+          transform: translateZ(191px);
 }
 
 section #galaxy #stars .star:nth-child(45) {
-  width: 4px;
-  height: 4px;
-  top: 27%;
-  left: 8%;
-  -webkit-transform: translateZ(34px);
-          transform: translateZ(34px);
+  width: 5px;
+  height: 5px;
+  top: 50%;
+  left: 57%;
+  -webkit-transform: translateZ(70px);
+          transform: translateZ(70px);
 }
 
 section #galaxy #stars .star:nth-child(46) {
-  width: 6px;
-  height: 6px;
-  top: 5%;
-  left: 80%;
-  -webkit-transform: translateZ(418px);
-          transform: translateZ(418px);
+  width: 2px;
+  height: 2px;
+  top: 80%;
+  left: 50%;
+  -webkit-transform: translateZ(273px);
+          transform: translateZ(273px);
 }
 
 section #galaxy #stars .star:nth-child(47) {
-  width: 4px;
-  height: 4px;
-  top: 43%;
-  left: 56%;
-  -webkit-transform: translateZ(307px);
-          transform: translateZ(307px);
+  width: 3px;
+  height: 3px;
+  top: 80%;
+  left: 94%;
+  -webkit-transform: translateZ(423px);
+          transform: translateZ(423px);
 }
 
 section #galaxy #stars .star:nth-child(48) {
   width: 5px;
   height: 5px;
-  top: 44%;
-  left: 37%;
-  -webkit-transform: translateZ(242px);
-          transform: translateZ(242px);
+  top: 32%;
+  left: 60%;
+  -webkit-transform: translateZ(358px);
+          transform: translateZ(358px);
 }
 
 section #galaxy #stars .star:nth-child(49) {
-  width: 5px;
-  height: 5px;
-  top: 75%;
-  left: 33%;
-  -webkit-transform: translateZ(378px);
-          transform: translateZ(378px);
+  width: 3px;
+  height: 3px;
+  top: 59%;
+  left: 16%;
+  -webkit-transform: translateZ(326px);
+          transform: translateZ(326px);
 }
 
 section #galaxy #stars .star:nth-child(50) {
-  width: 4px;
-  height: 4px;
-  top: 87%;
-  left: 13%;
-  -webkit-transform: translateZ(462px);
-          transform: translateZ(462px);
+  width: 3px;
+  height: 3px;
+  top: 40%;
+  left: 6%;
+  -webkit-transform: translateZ(191px);
+          transform: translateZ(191px);
 }
 
 section #galaxy #stars .star:nth-child(51) {
-  width: 5px;
-  height: 5px;
-  top: 9%;
-  left: 13%;
-  -webkit-transform: translateZ(416px);
-          transform: translateZ(416px);
+  width: 6px;
+  height: 6px;
+  top: 46%;
+  left: 53%;
+  -webkit-transform: translateZ(338px);
+          transform: translateZ(338px);
 }
 
 section #galaxy #stars .star:nth-child(52) {
   width: 3px;
   height: 3px;
-  top: 40%;
-  left: 7%;
-  -webkit-transform: translateZ(491px);
-          transform: translateZ(491px);
+  top: 62%;
+  left: 15%;
+  -webkit-transform: translateZ(427px);
+          transform: translateZ(427px);
 }
 
 section #galaxy #stars .star:nth-child(53) {
-  width: 6px;
-  height: 6px;
+  width: 2px;
+  height: 2px;
   top: 15%;
-  left: 64%;
-  -webkit-transform: translateZ(288px);
-          transform: translateZ(288px);
+  left: 35%;
+  -webkit-transform: translateZ(72px);
+          transform: translateZ(72px);
 }
 
 section #galaxy #stars .star:nth-child(54) {
-  width: 5px;
-  height: 5px;
-  top: 6%;
-  left: 42%;
-  -webkit-transform: translateZ(444px);
-          transform: translateZ(444px);
+  width: 2px;
+  height: 2px;
+  top: 82%;
+  left: 86%;
+  -webkit-transform: translateZ(419px);
+          transform: translateZ(419px);
 }
 
 section #galaxy #stars .star:nth-child(55) {
-  width: 5px;
-  height: 5px;
-  top: 15%;
-  left: 29%;
-  -webkit-transform: translateZ(27px);
-          transform: translateZ(27px);
+  width: 3px;
+  height: 3px;
+  top: 85%;
+  left: 72%;
+  -webkit-transform: translateZ(44px);
+          transform: translateZ(44px);
 }
 
 section #galaxy #stars .star:nth-child(56) {
-  width: 3px;
-  height: 3px;
-  top: 89%;
-  left: 51%;
-  -webkit-transform: translateZ(456px);
-          transform: translateZ(456px);
+  width: 5px;
+  height: 5px;
+  top: 50%;
+  left: 62%;
+  -webkit-transform: translateZ(64px);
+          transform: translateZ(64px);
 }
 
 section #galaxy #stars .star:nth-child(57) {
   width: 4px;
   height: 4px;
-  top: 30%;
-  left: 48%;
-  -webkit-transform: translateZ(254px);
-          transform: translateZ(254px);
+  top: 61%;
+  left: 35%;
+  -webkit-transform: translateZ(403px);
+          transform: translateZ(403px);
 }
 
 section #galaxy #stars .star:nth-child(58) {
-  width: 4px;
-  height: 4px;
-  top: 4%;
-  left: 57%;
-  -webkit-transform: translateZ(150px);
-          transform: translateZ(150px);
+  width: 6px;
+  height: 6px;
+  top: 43%;
+  left: 42%;
+  -webkit-transform: translateZ(372px);
+          transform: translateZ(372px);
 }
 
 section #galaxy #stars .star:nth-child(59) {
-  width: 3px;
-  height: 3px;
-  top: 36%;
-  left: 49%;
-  -webkit-transform: translateZ(383px);
-          transform: translateZ(383px);
+  width: 4px;
+  height: 4px;
+  top: 79%;
+  left: 4%;
+  -webkit-transform: translateZ(467px);
+          transform: translateZ(467px);
 }
 
 section #galaxy #stars .star:nth-child(60) {
-  width: 2px;
-  height: 2px;
-  top: 20%;
-  left: 21%;
-  -webkit-transform: translateZ(21px);
-          transform: translateZ(21px);
+  width: 6px;
+  height: 6px;
+  top: 2%;
+  left: 42%;
+  -webkit-transform: translateZ(384px);
+          transform: translateZ(384px);
 }
 
 section #galaxy #stars .star:nth-child(61) {
   width: 3px;
   height: 3px;
-  top: 21%;
-  left: 75%;
-  -webkit-transform: translateZ(175px);
-          transform: translateZ(175px);
+  top: 34%;
+  left: 20%;
+  -webkit-transform: translateZ(222px);
+          transform: translateZ(222px);
 }
 
 section #galaxy #stars .star:nth-child(62) {
-  width: 2px;
-  height: 2px;
-  top: 71%;
-  left: 84%;
-  -webkit-transform: translateZ(36px);
-          transform: translateZ(36px);
+  width: 5px;
+  height: 5px;
+  top: 40%;
+  left: 30%;
+  -webkit-transform: translateZ(471px);
+          transform: translateZ(471px);
 }
 
 section #galaxy #stars .star:nth-child(63) {
-  width: 5px;
-  height: 5px;
-  top: 11%;
-  left: 90%;
-  -webkit-transform: translateZ(335px);
-          transform: translateZ(335px);
+  width: 4px;
+  height: 4px;
+  top: 36%;
+  left: 24%;
+  -webkit-transform: translateZ(264px);
+          transform: translateZ(264px);
 }
 
 section #galaxy #stars .star:nth-child(64) {
-  width: 2px;
-  height: 2px;
-  top: 24%;
-  left: 70%;
-  -webkit-transform: translateZ(45px);
-          transform: translateZ(45px);
+  width: 4px;
+  height: 4px;
+  top: 79%;
+  left: 38%;
+  -webkit-transform: translateZ(463px);
+          transform: translateZ(463px);
 }
 
 section #galaxy #stars .star:nth-child(65) {
-  width: 2px;
-  height: 2px;
-  top: 20%;
-  left: 70%;
-  -webkit-transform: translateZ(66px);
-          transform: translateZ(66px);
+  width: 3px;
+  height: 3px;
+  top: 12%;
+  left: 20%;
+  -webkit-transform: translateZ(304px);
+          transform: translateZ(304px);
 }
 
 section #galaxy #stars .star:nth-child(66) {
-  width: 3px;
-  height: 3px;
+  width: 5px;
+  height: 5px;
   top: 90%;
-  left: 74%;
-  -webkit-transform: translateZ(448px);
-          transform: translateZ(448px);
+  left: 38%;
+  -webkit-transform: translateZ(215px);
+          transform: translateZ(215px);
 }
 
 section #galaxy #stars .star:nth-child(67) {
-  width: 4px;
-  height: 4px;
-  top: 72%;
-  left: 3%;
-  -webkit-transform: translateZ(141px);
-          transform: translateZ(141px);
+  width: 2px;
+  height: 2px;
+  top: 52%;
+  left: 48%;
+  -webkit-transform: translateZ(380px);
+          transform: translateZ(380px);
 }
 
 section #galaxy #stars .star:nth-child(68) {
-  width: 6px;
-  height: 6px;
-  top: 1%;
-  left: 9%;
-  -webkit-transform: translateZ(9px);
-          transform: translateZ(9px);
+  width: 5px;
+  height: 5px;
+  top: 92%;
+  left: 12%;
+  -webkit-transform: translateZ(371px);
+          transform: translateZ(371px);
 }
 
 section #galaxy #stars .star:nth-child(69) {
-  width: 4px;
-  height: 4px;
-  top: 58%;
-  left: 87%;
-  -webkit-transform: translateZ(267px);
-          transform: translateZ(267px);
+  width: 2px;
+  height: 2px;
+  top: 22%;
+  left: 31%;
+  -webkit-transform: translateZ(288px);
+          transform: translateZ(288px);
 }
 
 section #galaxy #stars .star:nth-child(70) {
   width: 6px;
   height: 6px;
-  top: 11%;
-  left: 8%;
-  -webkit-transform: translateZ(482px);
-          transform: translateZ(482px);
+  top: 18%;
+  left: 64%;
+  -webkit-transform: translateZ(146px);
+          transform: translateZ(146px);
 }
 
 section #galaxy #stars .star:nth-child(71) {
-  width: 4px;
-  height: 4px;
-  top: 90%;
-  left: 57%;
-  -webkit-transform: translateZ(483px);
-          transform: translateZ(483px);
+  width: 5px;
+  height: 5px;
+  top: 17%;
+  left: 22%;
+  -webkit-transform: translateZ(150px);
+          transform: translateZ(150px);
 }
 
 section #galaxy #stars .star:nth-child(72) {
-  width: 4px;
-  height: 4px;
-  top: 88%;
-  left: 56%;
-  -webkit-transform: translateZ(464px);
-          transform: translateZ(464px);
+  width: 2px;
+  height: 2px;
+  top: 56%;
+  left: 74%;
+  -webkit-transform: translateZ(218px);
+          transform: translateZ(218px);
 }
 
 section #galaxy #stars .star:nth-child(73) {
   width: 4px;
   height: 4px;
   top: 85%;
-  left: 32%;
-  -webkit-transform: translateZ(415px);
-          transform: translateZ(415px);
+  left: 5%;
+  -webkit-transform: translateZ(484px);
+          transform: translateZ(484px);
 }
 
 section #galaxy #stars .star:nth-child(74) {
   width: 2px;
   height: 2px;
-  top: 55%;
-  left: 95%;
-  -webkit-transform: translateZ(323px);
-          transform: translateZ(323px);
+  top: 8%;
+  left: 41%;
+  -webkit-transform: translateZ(461px);
+          transform: translateZ(461px);
 }
 
 section #galaxy #stars .star:nth-child(75) {
   width: 2px;
   height: 2px;
-  top: 94%;
-  left: 90%;
-  -webkit-transform: translateZ(279px);
-          transform: translateZ(279px);
+  top: 61%;
+  left: 36%;
+  -webkit-transform: translateZ(173px);
+          transform: translateZ(173px);
 }
 
 section #galaxy #stars .star:nth-child(76) {
-  width: 2px;
-  height: 2px;
-  top: 77%;
-  left: 38%;
-  -webkit-transform: translateZ(175px);
-          transform: translateZ(175px);
+  width: 6px;
+  height: 6px;
+  top: 69%;
+  left: 27%;
+  -webkit-transform: translateZ(415px);
+          transform: translateZ(415px);
 }
 
 section #galaxy #stars .star:nth-child(77) {
-  width: 6px;
-  height: 6px;
-  top: 82%;
-  left: 71%;
-  -webkit-transform: translateZ(329px);
-          transform: translateZ(329px);
+  width: 5px;
+  height: 5px;
+  top: 43%;
+  left: 48%;
+  -webkit-transform: translateZ(480px);
+          transform: translateZ(480px);
 }
 
 section #galaxy #stars .star:nth-child(78) {
   width: 6px;
   height: 6px;
-  top: 13%;
-  left: 60%;
-  -webkit-transform: translateZ(320px);
-          transform: translateZ(320px);
+  top: 87%;
+  left: 10%;
+  -webkit-transform: translateZ(196px);
+          transform: translateZ(196px);
 }
 
 section #galaxy #stars .star:nth-child(79) {
-  width: 6px;
-  height: 6px;
-  top: 22%;
-  left: 9%;
-  -webkit-transform: translateZ(205px);
-          transform: translateZ(205px);
+  width: 5px;
+  height: 5px;
+  top: 14%;
+  left: 42%;
+  -webkit-transform: translateZ(430px);
+          transform: translateZ(430px);
 }
 
 section #galaxy #stars .star:nth-child(80) {
-  width: 3px;
-  height: 3px;
-  top: 30%;
+  width: 4px;
+  height: 4px;
+  top: 6%;
   left: 81%;
-  -webkit-transform: translateZ(378px);
-          transform: translateZ(378px);
+  -webkit-transform: translateZ(200px);
+          transform: translateZ(200px);
 }
 
 section #galaxy #stars .star:nth-child(81) {
-  width: 2px;
-  height: 2px;
-  top: 51%;
-  left: 53%;
-  -webkit-transform: translateZ(389px);
-          transform: translateZ(389px);
+  width: 4px;
+  height: 4px;
+  top: 20%;
+  left: 83%;
+  -webkit-transform: translateZ(76px);
+          transform: translateZ(76px);
 }
 
 section #galaxy #stars .star:nth-child(82) {
   width: 6px;
   height: 6px;
-  top: 78%;
-  left: 1%;
-  -webkit-transform: translateZ(381px);
-          transform: translateZ(381px);
+  top: 37%;
+  left: 70%;
+  -webkit-transform: translateZ(17px);
+          transform: translateZ(17px);
 }
 
 section #galaxy #stars .star:nth-child(83) {
   width: 5px;
   height: 5px;
-  top: 21%;
-  left: 57%;
-  -webkit-transform: translateZ(465px);
-          transform: translateZ(465px);
+  top: 58%;
+  left: 76%;
+  -webkit-transform: translateZ(410px);
+          transform: translateZ(410px);
 }
 
 section #galaxy #stars .star:nth-child(84) {
-  width: 3px;
-  height: 3px;
-  top: 60%;
-  left: 31%;
-  -webkit-transform: translateZ(411px);
-          transform: translateZ(411px);
+  width: 5px;
+  height: 5px;
+  top: 42%;
+  left: 9%;
+  -webkit-transform: translateZ(5px);
+          transform: translateZ(5px);
 }
 
 section #galaxy #stars .star:nth-child(85) {
-  width: 5px;
-  height: 5px;
-  top: 74%;
-  left: 72%;
-  -webkit-transform: translateZ(500px);
-          transform: translateZ(500px);
+  width: 6px;
+  height: 6px;
+  top: 54%;
+  left: 82%;
+  -webkit-transform: translateZ(104px);
+          transform: translateZ(104px);
 }
 
 section #galaxy #stars .star:nth-child(86) {
   width: 4px;
   height: 4px;
-  top: 67%;
-  left: 56%;
-  -webkit-transform: translateZ(94px);
-          transform: translateZ(94px);
-}
-
-section #galaxy #stars .star:nth-child(87) {
-  width: 6px;
-  height: 6px;
-  top: 87%;
-  left: 18%;
+  top: 15%;
+  left: 2%;
   -webkit-transform: translateZ(228px);
           transform: translateZ(228px);
 }
 
-section #galaxy #stars .star:nth-child(88) {
+section #galaxy #stars .star:nth-child(87) {
   width: 4px;
   height: 4px;
-  top: 54%;
-  left: 44%;
-  -webkit-transform: translateZ(500px);
-          transform: translateZ(500px);
+  top: 92%;
+  left: 30%;
+  -webkit-transform: translateZ(270px);
+          transform: translateZ(270px);
+}
+
+section #galaxy #stars .star:nth-child(88) {
+  width: 3px;
+  height: 3px;
+  top: 95%;
+  left: 29%;
+  -webkit-transform: translateZ(477px);
+          transform: translateZ(477px);
 }
 
 section #galaxy #stars .star:nth-child(89) {
-  width: 3px;
-  height: 3px;
-  top: 29%;
-  left: 92%;
-  -webkit-transform: translateZ(432px);
-          transform: translateZ(432px);
+  width: 5px;
+  height: 5px;
+  top: 10%;
+  left: 76%;
+  -webkit-transform: translateZ(205px);
+          transform: translateZ(205px);
 }
 
 section #galaxy #stars .star:nth-child(90) {
-  width: 3px;
-  height: 3px;
-  top: 66%;
-  left: 79%;
-  -webkit-transform: translateZ(120px);
-          transform: translateZ(120px);
+  width: 6px;
+  height: 6px;
+  top: 35%;
+  left: 29%;
+  -webkit-transform: translateZ(232px);
+          transform: translateZ(232px);
 }
 
 section #galaxy #stars .star:nth-child(91) {
   width: 3px;
   height: 3px;
-  top: 43%;
-  left: 58%;
-  -webkit-transform: translateZ(141px);
-          transform: translateZ(141px);
+  top: 44%;
+  left: 15%;
+  -webkit-transform: translateZ(116px);
+          transform: translateZ(116px);
 }
 
 section #galaxy #stars .star:nth-child(92) {
-  width: 6px;
-  height: 6px;
-  top: 50%;
-  left: 92%;
-  -webkit-transform: translateZ(97px);
-          transform: translateZ(97px);
+  width: 3px;
+  height: 3px;
+  top: 72%;
+  left: 79%;
+  -webkit-transform: translateZ(5px);
+          transform: translateZ(5px);
 }
 
 section #galaxy #stars .star:nth-child(93) {
   width: 3px;
   height: 3px;
-  top: 79%;
-  left: 9%;
-  -webkit-transform: translateZ(450px);
-          transform: translateZ(450px);
+  top: 1%;
+  left: 74%;
+  -webkit-transform: translateZ(497px);
+          transform: translateZ(497px);
 }
 
 section #galaxy #stars .star:nth-child(94) {
   width: 4px;
   height: 4px;
-  top: 38%;
-  left: 25%;
-  -webkit-transform: translateZ(471px);
-          transform: translateZ(471px);
+  top: 62%;
+  left: 37%;
+  -webkit-transform: translateZ(119px);
+          transform: translateZ(119px);
 }
 
 section #galaxy #stars .star:nth-child(95) {
-  width: 3px;
-  height: 3px;
-  top: 73%;
-  left: 94%;
-  -webkit-transform: translateZ(127px);
-          transform: translateZ(127px);
+  width: 6px;
+  height: 6px;
+  top: 52%;
+  left: 87%;
+  -webkit-transform: translateZ(183px);
+          transform: translateZ(183px);
 }
 
 section #galaxy #stars .star:nth-child(96) {
-  width: 2px;
-  height: 2px;
-  top: 16%;
+  width: 3px;
+  height: 3px;
+  top: 45%;
   left: 37%;
-  -webkit-transform: translateZ(427px);
-          transform: translateZ(427px);
+  -webkit-transform: translateZ(463px);
+          transform: translateZ(463px);
 }
 
 section #galaxy #stars .star:nth-child(97) {
-  width: 4px;
-  height: 4px;
-  top: 24%;
-  left: 51%;
-  -webkit-transform: translateZ(332px);
-          transform: translateZ(332px);
+  width: 3px;
+  height: 3px;
+  top: 81%;
+  left: 1%;
+  -webkit-transform: translateZ(315px);
+          transform: translateZ(315px);
 }
 
 section #galaxy #stars .star:nth-child(98) {
   width: 4px;
   height: 4px;
-  top: 92%;
-  left: 42%;
-  -webkit-transform: translateZ(254px);
-          transform: translateZ(254px);
+  top: 17%;
+  left: 87%;
+  -webkit-transform: translateZ(284px);
+          transform: translateZ(284px);
 }
 
 section #galaxy #stars .star:nth-child(99) {
-  width: 2px;
-  height: 2px;
+  width: 6px;
+  height: 6px;
   top: 36%;
-  left: 19%;
-  -webkit-transform: translateZ(138px);
-          transform: translateZ(138px);
+  left: 1%;
+  -webkit-transform: translateZ(473px);
+          transform: translateZ(473px);
 }
 
 section #galaxy #stars .star:nth-child(100) {
-  width: 2px;
-  height: 2px;
+  width: 6px;
+  height: 6px;
   top: 84%;
-  left: 83%;
-  -webkit-transform: translateZ(420px);
-          transform: translateZ(420px);
+  left: 48%;
+  -webkit-transform: translateZ(220px);
+          transform: translateZ(220px);
 }
 
 section #galaxy #stars .star:nth-child(101) {
-  width: 3px;
-  height: 3px;
-  top: 73%;
-  left: 39%;
-  -webkit-transform: translateZ(189px);
-          transform: translateZ(189px);
+  width: 4px;
+  height: 4px;
+  top: 71%;
+  left: 11%;
+  -webkit-transform: translateZ(244px);
+          transform: translateZ(244px);
 }
 
 section #galaxy #stars .star:nth-child(102) {
-  width: 2px;
-  height: 2px;
-  top: 48%;
-  left: 91%;
-  -webkit-transform: translateZ(401px);
-          transform: translateZ(401px);
+  width: 4px;
+  height: 4px;
+  top: 9%;
+  left: 18%;
+  -webkit-transform: translateZ(184px);
+          transform: translateZ(184px);
 }
 
 section #galaxy #stars .star:nth-child(103) {
-  width: 6px;
-  height: 6px;
-  top: 23%;
-  left: 30%;
-  -webkit-transform: translateZ(228px);
-          transform: translateZ(228px);
+  width: 2px;
+  height: 2px;
+  top: 78%;
+  left: 80%;
+  -webkit-transform: translateZ(171px);
+          transform: translateZ(171px);
 }
 
 section #galaxy #stars .star:nth-child(104) {
-  width: 2px;
-  height: 2px;
-  top: 91%;
-  left: 63%;
-  -webkit-transform: translateZ(445px);
-          transform: translateZ(445px);
+  width: 3px;
+  height: 3px;
+  top: 46%;
+  left: 11%;
+  -webkit-transform: translateZ(83px);
+          transform: translateZ(83px);
 }
 
 section #galaxy #stars .star:nth-child(105) {
-  width: 5px;
-  height: 5px;
-  top: 47%;
-  left: 89%;
-  -webkit-transform: translateZ(499px);
-          transform: translateZ(499px);
+  width: 3px;
+  height: 3px;
+  top: 15%;
+  left: 34%;
+  -webkit-transform: translateZ(161px);
+          transform: translateZ(161px);
 }
 
 section #galaxy #stars .star:nth-child(106) {
-  width: 6px;
-  height: 6px;
-  top: 61%;
-  left: 64%;
-  -webkit-transform: translateZ(201px);
-          transform: translateZ(201px);
+  width: 4px;
+  height: 4px;
+  top: 86%;
+  left: 84%;
+  -webkit-transform: translateZ(452px);
+          transform: translateZ(452px);
 }
 
 section #galaxy #stars .star:nth-child(107) {
-  width: 5px;
-  height: 5px;
-  top: 45%;
-  left: 94%;
-  -webkit-transform: translateZ(325px);
-          transform: translateZ(325px);
+  width: 3px;
+  height: 3px;
+  top: 56%;
+  left: 42%;
+  -webkit-transform: translateZ(410px);
+          transform: translateZ(410px);
 }
 
 section #galaxy #stars .star:nth-child(108) {
   width: 5px;
   height: 5px;
-  top: 30%;
-  left: 22%;
-  -webkit-transform: translateZ(409px);
-          transform: translateZ(409px);
+  top: 75%;
+  left: 60%;
+  -webkit-transform: translateZ(279px);
+          transform: translateZ(279px);
 }
 
 section #galaxy #stars .star:nth-child(109) {
-  width: 3px;
-  height: 3px;
-  top: 74%;
-  left: 70%;
-  -webkit-transform: translateZ(446px);
-          transform: translateZ(446px);
+  width: 2px;
+  height: 2px;
+  top: 61%;
+  left: 74%;
+  -webkit-transform: translateZ(207px);
+          transform: translateZ(207px);
 }
 
 section #galaxy #stars .star:nth-child(110) {
-  width: 5px;
-  height: 5px;
-  top: 50%;
-  left: 92%;
-  -webkit-transform: translateZ(69px);
-          transform: translateZ(69px);
+  width: 4px;
+  height: 4px;
+  top: 85%;
+  left: 46%;
+  -webkit-transform: translateZ(25px);
+          transform: translateZ(25px);
 }
 
 section #galaxy #stars .star:nth-child(111) {
-  width: 6px;
-  height: 6px;
-  top: 30%;
-  left: 1%;
-  -webkit-transform: translateZ(3px);
-          transform: translateZ(3px);
+  width: 2px;
+  height: 2px;
+  top: 84%;
+  left: 17%;
+  -webkit-transform: translateZ(73px);
+          transform: translateZ(73px);
 }
 
 section #galaxy #stars .star:nth-child(112) {
-  width: 2px;
-  height: 2px;
-  top: 88%;
-  left: 76%;
-  -webkit-transform: translateZ(18px);
-          transform: translateZ(18px);
+  width: 3px;
+  height: 3px;
+  top: 8%;
+  left: 41%;
+  -webkit-transform: translateZ(334px);
+          transform: translateZ(334px);
 }
 
 section #galaxy #stars .star:nth-child(113) {
-  width: 5px;
-  height: 5px;
-  top: 42%;
-  left: 79%;
-  -webkit-transform: translateZ(71px);
-          transform: translateZ(71px);
+  width: 4px;
+  height: 4px;
+  top: 78%;
+  left: 68%;
+  -webkit-transform: translateZ(433px);
+          transform: translateZ(433px);
 }
 
 section #galaxy #stars .star:nth-child(114) {
-  width: 5px;
-  height: 5px;
+  width: 2px;
+  height: 2px;
   top: 28%;
-  left: 33%;
-  -webkit-transform: translateZ(35px);
-          transform: translateZ(35px);
+  left: 60%;
+  -webkit-transform: translateZ(424px);
+          transform: translateZ(424px);
 }
 
 section #galaxy #stars .star:nth-child(115) {
   width: 3px;
   height: 3px;
-  top: 80%;
-  left: 24%;
-  -webkit-transform: translateZ(459px);
-          transform: translateZ(459px);
+  top: 54%;
+  left: 55%;
+  -webkit-transform: translateZ(458px);
+          transform: translateZ(458px);
 }
 
 section #galaxy #stars .star:nth-child(116) {
   width: 3px;
   height: 3px;
-  top: 20%;
-  left: 12%;
-  -webkit-transform: translateZ(157px);
-          transform: translateZ(157px);
+  top: 49%;
+  left: 28%;
+  -webkit-transform: translateZ(78px);
+          transform: translateZ(78px);
 }
 
 section #galaxy #stars .star:nth-child(117) {
-  width: 6px;
-  height: 6px;
-  top: 33%;
-  left: 52%;
-  -webkit-transform: translateZ(492px);
-          transform: translateZ(492px);
+  width: 5px;
+  height: 5px;
+  top: 12%;
+  left: 61%;
+  -webkit-transform: translateZ(278px);
+          transform: translateZ(278px);
 }
 
 section #galaxy #stars .star:nth-child(118) {
-  width: 6px;
-  height: 6px;
-  top: 47%;
+  width: 5px;
+  height: 5px;
+  top: 22%;
   left: 3%;
-  -webkit-transform: translateZ(405px);
-          transform: translateZ(405px);
+  -webkit-transform: translateZ(203px);
+          transform: translateZ(203px);
 }
 
 section #galaxy #stars .star:nth-child(119) {
   width: 5px;
   height: 5px;
-  top: 91%;
-  left: 50%;
-  -webkit-transform: translateZ(37px);
-          transform: translateZ(37px);
+  top: 42%;
+  left: 78%;
+  -webkit-transform: translateZ(324px);
+          transform: translateZ(324px);
 }
 
 section #galaxy #stars .star:nth-child(120) {
-  width: 4px;
-  height: 4px;
-  top: 4%;
-  left: 49%;
-  -webkit-transform: translateZ(319px);
-          transform: translateZ(319px);
+  width: 5px;
+  height: 5px;
+  top: 19%;
+  left: 26%;
+  -webkit-transform: translateZ(39px);
+          transform: translateZ(39px);
 }
 
 section #galaxy #stars .star:nth-child(121) {
-  width: 2px;
-  height: 2px;
-  top: 60%;
-  left: 51%;
-  -webkit-transform: translateZ(380px);
-          transform: translateZ(380px);
+  width: 5px;
+  height: 5px;
+  top: 86%;
+  left: 64%;
+  -webkit-transform: translateZ(269px);
+          transform: translateZ(269px);
 }
 
 section #galaxy #stars .star:nth-child(122) {
-  width: 4px;
-  height: 4px;
-  top: 21%;
-  left: 73%;
-  -webkit-transform: translateZ(157px);
-          transform: translateZ(157px);
+  width: 6px;
+  height: 6px;
+  top: 8%;
+  left: 25%;
+  -webkit-transform: translateZ(302px);
+          transform: translateZ(302px);
 }
 
 section #galaxy #stars .star:nth-child(123) {
-  width: 6px;
-  height: 6px;
-  top: 12%;
+  width: 2px;
+  height: 2px;
+  top: 95%;
   left: 7%;
-  -webkit-transform: translateZ(96px);
-          transform: translateZ(96px);
+  -webkit-transform: translateZ(334px);
+          transform: translateZ(334px);
 }
 
 section #galaxy #stars .star:nth-child(124) {
-  width: 4px;
-  height: 4px;
-  top: 54%;
-  left: 12%;
-  -webkit-transform: translateZ(14px);
-          transform: translateZ(14px);
+  width: 3px;
+  height: 3px;
+  top: 69%;
+  left: 63%;
+  -webkit-transform: translateZ(235px);
+          transform: translateZ(235px);
 }
 
 section #galaxy #stars .star:nth-child(125) {
   width: 6px;
   height: 6px;
-  top: 52%;
-  left: 30%;
-  -webkit-transform: translateZ(36px);
-          transform: translateZ(36px);
+  top: 22%;
+  left: 73%;
+  -webkit-transform: translateZ(412px);
+          transform: translateZ(412px);
 }
 
 section #galaxy #stars .star:nth-child(126) {
-  width: 4px;
-  height: 4px;
-  top: 46%;
-  left: 84%;
-  -webkit-transform: translateZ(445px);
-          transform: translateZ(445px);
+  width: 2px;
+  height: 2px;
+  top: 51%;
+  left: 5%;
+  -webkit-transform: translateZ(192px);
+          transform: translateZ(192px);
 }
 
 section #galaxy #stars .star:nth-child(127) {
-  width: 4px;
-  height: 4px;
-  top: 11%;
-  left: 49%;
-  -webkit-transform: translateZ(389px);
-          transform: translateZ(389px);
+  width: 2px;
+  height: 2px;
+  top: 95%;
+  left: 38%;
+  -webkit-transform: translateZ(385px);
+          transform: translateZ(385px);
 }
 
 section #galaxy #stars .star:nth-child(128) {
-  width: 4px;
-  height: 4px;
-  top: 8%;
-  left: 70%;
-  -webkit-transform: translateZ(375px);
-          transform: translateZ(375px);
+  width: 5px;
+  height: 5px;
+  top: 40%;
+  left: 22%;
+  -webkit-transform: translateZ(20px);
+          transform: translateZ(20px);
 }
 
 section #galaxy #stars .star:nth-child(129) {
-  width: 3px;
-  height: 3px;
-  top: 58%;
-  left: 3%;
-  -webkit-transform: translateZ(255px);
-          transform: translateZ(255px);
+  width: 5px;
+  height: 5px;
+  top: 84%;
+  left: 20%;
+  -webkit-transform: translateZ(360px);
+          transform: translateZ(360px);
 }
 
 section #galaxy #stars .star:nth-child(130) {
-  width: 5px;
-  height: 5px;
-  top: 50%;
-  left: 95%;
-  -webkit-transform: translateZ(66px);
-          transform: translateZ(66px);
+  width: 4px;
+  height: 4px;
+  top: 58%;
+  left: 51%;
+  -webkit-transform: translateZ(449px);
+          transform: translateZ(449px);
 }
 
 section #galaxy #stars .star:nth-child(131) {
-  width: 4px;
-  height: 4px;
-  top: 21%;
-  left: 21%;
-  -webkit-transform: translateZ(382px);
-          transform: translateZ(382px);
+  width: 5px;
+  height: 5px;
+  top: 1%;
+  left: 39%;
+  -webkit-transform: translateZ(466px);
+          transform: translateZ(466px);
 }
 
 section #galaxy #stars .star:nth-child(132) {
-  width: 3px;
-  height: 3px;
-  top: 40%;
-  left: 50%;
-  -webkit-transform: translateZ(205px);
-          transform: translateZ(205px);
+  width: 4px;
+  height: 4px;
+  top: 54%;
+  left: 11%;
+  -webkit-transform: translateZ(109px);
+          transform: translateZ(109px);
 }
 
 section #galaxy #stars .star:nth-child(133) {
-  width: 6px;
-  height: 6px;
-  top: 20%;
-  left: 47%;
-  -webkit-transform: translateZ(142px);
-          transform: translateZ(142px);
+  width: 3px;
+  height: 3px;
+  top: 13%;
+  left: 94%;
+  -webkit-transform: translateZ(302px);
+          transform: translateZ(302px);
 }
 
 section #galaxy #stars .star:nth-child(134) {
-  width: 3px;
-  height: 3px;
-  top: 9%;
-  left: 89%;
-  -webkit-transform: translateZ(404px);
-          transform: translateZ(404px);
+  width: 2px;
+  height: 2px;
+  top: 76%;
+  left: 92%;
+  -webkit-transform: translateZ(332px);
+          transform: translateZ(332px);
 }
 
 section #galaxy #stars .star:nth-child(135) {
-  width: 6px;
-  height: 6px;
-  top: 15%;
-  left: 5%;
-  -webkit-transform: translateZ(476px);
-          transform: translateZ(476px);
+  width: 4px;
+  height: 4px;
+  top: 41%;
+  left: 73%;
+  -webkit-transform: translateZ(320px);
+          transform: translateZ(320px);
 }
 
 section #galaxy #stars .star:nth-child(136) {
-  width: 3px;
-  height: 3px;
-  top: 80%;
-  left: 50%;
-  -webkit-transform: translateZ(184px);
-          transform: translateZ(184px);
+  width: 4px;
+  height: 4px;
+  top: 60%;
+  left: 47%;
+  -webkit-transform: translateZ(326px);
+          transform: translateZ(326px);
 }
 
 section #galaxy #stars .star:nth-child(137) {
+  width: 5px;
+  height: 5px;
+  top: 77%;
+  left: 73%;
+  -webkit-transform: translateZ(322px);
+          transform: translateZ(322px);
+}
+
+section #galaxy #stars .star:nth-child(138) {
+  width: 5px;
+  height: 5px;
+  top: 79%;
+  left: 56%;
+  -webkit-transform: translateZ(435px);
+          transform: translateZ(435px);
+}
+
+section #galaxy #stars .star:nth-child(139) {
+  width: 3px;
+  height: 3px;
+  top: 58%;
+  left: 73%;
+  -webkit-transform: translateZ(276px);
+          transform: translateZ(276px);
+}
+
+section #galaxy #stars .star:nth-child(140) {
   width: 6px;
   height: 6px;
-  top: 91%;
-  left: 74%;
+  top: 28%;
+  left: 65%;
+  -webkit-transform: translateZ(73px);
+          transform: translateZ(73px);
+}
+
+section #galaxy #stars .star:nth-child(141) {
+  width: 2px;
+  height: 2px;
+  top: 42%;
+  left: 9%;
+  -webkit-transform: translateZ(320px);
+          transform: translateZ(320px);
+}
+
+section #galaxy #stars .star:nth-child(142) {
+  width: 6px;
+  height: 6px;
+  top: 21%;
+  left: 75%;
+  -webkit-transform: translateZ(194px);
+          transform: translateZ(194px);
+}
+
+section #galaxy #stars .star:nth-child(143) {
+  width: 3px;
+  height: 3px;
+  top: 52%;
+  left: 86%;
+  -webkit-transform: translateZ(483px);
+          transform: translateZ(483px);
+}
+
+section #galaxy #stars .star:nth-child(144) {
+  width: 5px;
+  height: 5px;
+  top: 11%;
+  left: 22%;
   -webkit-transform: translateZ(96px);
           transform: translateZ(96px);
 }
 
-section #galaxy #stars .star:nth-child(138) {
-  width: 3px;
-  height: 3px;
-  top: 34%;
-  left: 70%;
-  -webkit-transform: translateZ(175px);
-          transform: translateZ(175px);
-}
-
-section #galaxy #stars .star:nth-child(139) {
-  width: 4px;
-  height: 4px;
-  top: 9%;
-  left: 20%;
-  -webkit-transform: translateZ(408px);
-          transform: translateZ(408px);
-}
-
-section #galaxy #stars .star:nth-child(140) {
-  width: 4px;
-  height: 4px;
-  top: 23%;
-  left: 24%;
-  -webkit-transform: translateZ(170px);
-          transform: translateZ(170px);
-}
-
-section #galaxy #stars .star:nth-child(141) {
-  width: 3px;
-  height: 3px;
-  top: 32%;
-  left: 16%;
-  -webkit-transform: translateZ(496px);
-          transform: translateZ(496px);
-}
-
-section #galaxy #stars .star:nth-child(142) {
-  width: 5px;
-  height: 5px;
-  top: 61%;
-  left: 40%;
-  -webkit-transform: translateZ(495px);
-          transform: translateZ(495px);
-}
-
-section #galaxy #stars .star:nth-child(143) {
-  width: 5px;
-  height: 5px;
-  top: 53%;
-  left: 57%;
-  -webkit-transform: translateZ(114px);
-          transform: translateZ(114px);
-}
-
-section #galaxy #stars .star:nth-child(144) {
-  width: 2px;
-  height: 2px;
-  top: 43%;
-  left: 67%;
-  -webkit-transform: translateZ(97px);
-          transform: translateZ(97px);
-}
-
 section #galaxy #stars .star:nth-child(145) {
-  width: 2px;
-  height: 2px;
-  top: 56%;
-  left: 8%;
-  -webkit-transform: translateZ(383px);
-          transform: translateZ(383px);
+  width: 5px;
+  height: 5px;
+  top: 12%;
+  left: 54%;
+  -webkit-transform: translateZ(317px);
+          transform: translateZ(317px);
 }
 
 section #galaxy #stars .star:nth-child(146) {
-  width: 2px;
-  height: 2px;
-  top: 60%;
+  width: 4px;
+  height: 4px;
+  top: 53%;
   left: 52%;
-  -webkit-transform: translateZ(103px);
-          transform: translateZ(103px);
+  -webkit-transform: translateZ(201px);
+          transform: translateZ(201px);
 }
 
 section #galaxy #stars .star:nth-child(147) {
-  width: 5px;
-  height: 5px;
-  top: 78%;
-  left: 35%;
-  -webkit-transform: translateZ(50px);
-          transform: translateZ(50px);
+  width: 4px;
+  height: 4px;
+  top: 93%;
+  left: 90%;
+  -webkit-transform: translateZ(351px);
+          transform: translateZ(351px);
 }
 
 section #galaxy #stars .star:nth-child(148) {
   width: 5px;
   height: 5px;
-  top: 57%;
-  left: 18%;
-  -webkit-transform: translateZ(267px);
-          transform: translateZ(267px);
+  top: 22%;
+  left: 10%;
+  -webkit-transform: translateZ(273px);
+          transform: translateZ(273px);
 }
 
 section #galaxy #stars .star:nth-child(149) {
-  width: 4px;
-  height: 4px;
-  top: 95%;
-  left: 79%;
-  -webkit-transform: translateZ(93px);
-          transform: translateZ(93px);
+  width: 6px;
+  height: 6px;
+  top: 38%;
+  left: 31%;
+  -webkit-transform: translateZ(147px);
+          transform: translateZ(147px);
 }
 
 section #galaxy #stars .star:nth-child(150) {
   width: 2px;
   height: 2px;
-  top: 14%;
-  left: 27%;
-  -webkit-transform: translateZ(289px);
-          transform: translateZ(289px);
+  top: 58%;
+  left: 86%;
+  -webkit-transform: translateZ(462px);
+          transform: translateZ(462px);
 }
 
 section #galaxy #stars .star:nth-child(151) {
-  width: 2px;
-  height: 2px;
-  top: 25%;
-  left: 95%;
-  -webkit-transform: translateZ(114px);
-          transform: translateZ(114px);
+  width: 3px;
+  height: 3px;
+  top: 3%;
+  left: 50%;
+  -webkit-transform: translateZ(333px);
+          transform: translateZ(333px);
 }
 
 section #galaxy #stars .star:nth-child(152) {
-  width: 5px;
-  height: 5px;
-  top: 91%;
-  left: 53%;
-  -webkit-transform: translateZ(492px);
-          transform: translateZ(492px);
+  width: 4px;
+  height: 4px;
+  top: 47%;
+  left: 25%;
+  -webkit-transform: translateZ(366px);
+          transform: translateZ(366px);
 }
 
 section #galaxy #stars .star:nth-child(153) {
-  width: 6px;
-  height: 6px;
-  top: 59%;
-  left: 72%;
-  -webkit-transform: translateZ(189px);
-          transform: translateZ(189px);
+  width: 2px;
+  height: 2px;
+  top: 94%;
+  left: 69%;
+  -webkit-transform: translateZ(156px);
+          transform: translateZ(156px);
 }
 
 section #galaxy #stars .star:nth-child(154) {
   width: 5px;
   height: 5px;
-  top: 50%;
-  left: 61%;
-  -webkit-transform: translateZ(377px);
-          transform: translateZ(377px);
+  top: 27%;
+  left: 75%;
+  -webkit-transform: translateZ(255px);
+          transform: translateZ(255px);
 }
 
 section #galaxy #stars .star:nth-child(155) {
-  width: 5px;
-  height: 5px;
-  top: 8%;
-  left: 11%;
-  -webkit-transform: translateZ(135px);
-          transform: translateZ(135px);
+  width: 6px;
+  height: 6px;
+  top: 9%;
+  left: 95%;
+  -webkit-transform: translateZ(395px);
+          transform: translateZ(395px);
 }
 
 section #galaxy #stars .star:nth-child(156) {
-  width: 3px;
-  height: 3px;
-  top: 91%;
-  left: 66%;
-  -webkit-transform: translateZ(370px);
-          transform: translateZ(370px);
+  width: 6px;
+  height: 6px;
+  top: 59%;
+  left: 30%;
+  -webkit-transform: translateZ(95px);
+          transform: translateZ(95px);
 }
 
 section #galaxy #stars .star:nth-child(157) {
   width: 3px;
   height: 3px;
-  top: 16%;
-  left: 48%;
-  -webkit-transform: translateZ(465px);
-          transform: translateZ(465px);
+  top: 81%;
+  left: 4%;
+  -webkit-transform: translateZ(348px);
+          transform: translateZ(348px);
 }
 
 section #galaxy #stars .star:nth-child(158) {
-  width: 3px;
-  height: 3px;
-  top: 72%;
-  left: 23%;
-  -webkit-transform: translateZ(332px);
-          transform: translateZ(332px);
+  width: 4px;
+  height: 4px;
+  top: 93%;
+  left: 77%;
+  -webkit-transform: translateZ(170px);
+          transform: translateZ(170px);
 }
 
 section #galaxy #stars .star:nth-child(159) {
-  width: 5px;
-  height: 5px;
-  top: 73%;
-  left: 1%;
-  -webkit-transform: translateZ(168px);
-          transform: translateZ(168px);
+  width: 3px;
+  height: 3px;
+  top: 71%;
+  left: 21%;
+  -webkit-transform: translateZ(360px);
+          transform: translateZ(360px);
 }
 
 section #galaxy #stars .star:nth-child(160) {
-  width: 5px;
-  height: 5px;
-  top: 18%;
-  left: 17%;
-  -webkit-transform: translateZ(394px);
-          transform: translateZ(394px);
+  width: 2px;
+  height: 2px;
+  top: 1%;
+  left: 52%;
+  -webkit-transform: translateZ(335px);
+          transform: translateZ(335px);
 }
 
 section #galaxy #stars .star:nth-child(161) {
-  width: 2px;
-  height: 2px;
-  top: 90%;
-  left: 60%;
-  -webkit-transform: translateZ(31px);
-          transform: translateZ(31px);
+  width: 4px;
+  height: 4px;
+  top: 63%;
+  left: 64%;
+  -webkit-transform: translateZ(48px);
+          transform: translateZ(48px);
 }
 
 section #galaxy #stars .star:nth-child(162) {
-  width: 3px;
-  height: 3px;
-  top: 3%;
-  left: 83%;
-  -webkit-transform: translateZ(175px);
-          transform: translateZ(175px);
+  width: 6px;
+  height: 6px;
+  top: 65%;
+  left: 95%;
+  -webkit-transform: translateZ(204px);
+          transform: translateZ(204px);
 }
 
 section #galaxy #stars .star:nth-child(163) {
-  width: 5px;
-  height: 5px;
-  top: 8%;
-  left: 28%;
-  -webkit-transform: translateZ(224px);
-          transform: translateZ(224px);
+  width: 6px;
+  height: 6px;
+  top: 15%;
+  left: 66%;
+  -webkit-transform: translateZ(454px);
+          transform: translateZ(454px);
 }
 
 section #galaxy #stars .star:nth-child(164) {
   width: 5px;
   height: 5px;
-  top: 73%;
-  left: 56%;
-  -webkit-transform: translateZ(64px);
-          transform: translateZ(64px);
+  top: 92%;
+  left: 13%;
+  -webkit-transform: translateZ(491px);
+          transform: translateZ(491px);
 }
 
 section #galaxy #stars .star:nth-child(165) {
-  width: 2px;
-  height: 2px;
-  top: 11%;
-  left: 1%;
-  -webkit-transform: translateZ(31px);
-          transform: translateZ(31px);
+  width: 4px;
+  height: 4px;
+  top: 18%;
+  left: 20%;
+  -webkit-transform: translateZ(367px);
+          transform: translateZ(367px);
 }
 
 section #galaxy #stars .star:nth-child(166) {
-  width: 3px;
-  height: 3px;
-  top: 93%;
-  left: 9%;
-  -webkit-transform: translateZ(312px);
-          transform: translateZ(312px);
+  width: 5px;
+  height: 5px;
+  top: 75%;
+  left: 85%;
+  -webkit-transform: translateZ(34px);
+          transform: translateZ(34px);
 }
 
 section #galaxy #stars .star:nth-child(167) {
-  width: 3px;
-  height: 3px;
-  top: 74%;
-  left: 78%;
-  -webkit-transform: translateZ(234px);
-          transform: translateZ(234px);
+  width: 6px;
+  height: 6px;
+  top: 89%;
+  left: 77%;
+  -webkit-transform: translateZ(338px);
+          transform: translateZ(338px);
 }
 
 section #galaxy #stars .star:nth-child(168) {
-  width: 2px;
-  height: 2px;
-  top: 8%;
-  left: 16%;
-  -webkit-transform: translateZ(45px);
-          transform: translateZ(45px);
+  width: 6px;
+  height: 6px;
+  top: 7%;
+  left: 70%;
+  -webkit-transform: translateZ(23px);
+          transform: translateZ(23px);
 }
 
 section #galaxy #stars .star:nth-child(169) {
-  width: 5px;
-  height: 5px;
-  top: 46%;
-  left: 55%;
-  -webkit-transform: translateZ(256px);
-          transform: translateZ(256px);
+  width: 6px;
+  height: 6px;
+  top: 59%;
+  left: 67%;
+  -webkit-transform: translateZ(77px);
+          transform: translateZ(77px);
 }
 
 section #galaxy #stars .star:nth-child(170) {
-  width: 6px;
-  height: 6px;
-  top: 30%;
-  left: 20%;
-  -webkit-transform: translateZ(371px);
-          transform: translateZ(371px);
+  width: 4px;
+  height: 4px;
+  top: 71%;
+  left: 30%;
+  -webkit-transform: translateZ(394px);
+          transform: translateZ(394px);
 }
 
 section #galaxy #stars .star:nth-child(171) {
   width: 4px;
   height: 4px;
-  top: 49%;
-  left: 59%;
-  -webkit-transform: translateZ(470px);
-          transform: translateZ(470px);
+  top: 59%;
+  left: 62%;
+  -webkit-transform: translateZ(388px);
+          transform: translateZ(388px);
 }
 
 section #galaxy #stars .star:nth-child(172) {
-  width: 6px;
-  height: 6px;
-  top: 61%;
-  left: 85%;
-  -webkit-transform: translateZ(183px);
-          transform: translateZ(183px);
+  width: 3px;
+  height: 3px;
+  top: 22%;
+  left: 14%;
+  -webkit-transform: translateZ(143px);
+          transform: translateZ(143px);
 }
 
 section #galaxy #stars .star:nth-child(173) {
-  width: 4px;
-  height: 4px;
-  top: 15%;
-  left: 12%;
-  -webkit-transform: translateZ(321px);
-          transform: translateZ(321px);
+  width: 5px;
+  height: 5px;
+  top: 88%;
+  left: 75%;
+  -webkit-transform: translateZ(493px);
+          transform: translateZ(493px);
 }
 
 section #galaxy #stars .star:nth-child(174) {
-  width: 5px;
-  height: 5px;
-  top: 60%;
-  left: 31%;
-  -webkit-transform: translateZ(372px);
-          transform: translateZ(372px);
+  width: 3px;
+  height: 3px;
+  top: 37%;
+  left: 29%;
+  -webkit-transform: translateZ(7px);
+          transform: translateZ(7px);
 }
 
 section #galaxy #stars .star:nth-child(175) {
   width: 3px;
   height: 3px;
-  top: 36%;
-  left: 45%;
-  -webkit-transform: translateZ(317px);
-          transform: translateZ(317px);
+  top: 78%;
+  left: 42%;
+  -webkit-transform: translateZ(357px);
+          transform: translateZ(357px);
 }
 
 section #galaxy #stars .star:nth-child(176) {
-  width: 2px;
-  height: 2px;
-  top: 86%;
-  left: 12%;
-  -webkit-transform: translateZ(100px);
-          transform: translateZ(100px);
+  width: 5px;
+  height: 5px;
+  top: 92%;
+  left: 8%;
+  -webkit-transform: translateZ(479px);
+          transform: translateZ(479px);
 }
 
 section #galaxy #stars .star:nth-child(177) {
-  width: 6px;
-  height: 6px;
-  top: 22%;
-  left: 63%;
-  -webkit-transform: translateZ(448px);
-          transform: translateZ(448px);
+  width: 2px;
+  height: 2px;
+  top: 27%;
+  left: 60%;
+  -webkit-transform: translateZ(478px);
+          transform: translateZ(478px);
 }
 
 section #galaxy #stars .star:nth-child(178) {
-  width: 2px;
-  height: 2px;
-  top: 50%;
-  left: 79%;
-  -webkit-transform: translateZ(87px);
-          transform: translateZ(87px);
+  width: 5px;
+  height: 5px;
+  top: 37%;
+  left: 16%;
+  -webkit-transform: translateZ(60px);
+          transform: translateZ(60px);
 }
 
 section #galaxy #stars .star:nth-child(179) {
-  width: 2px;
-  height: 2px;
-  top: 53%;
-  left: 58%;
-  -webkit-transform: translateZ(301px);
-          transform: translateZ(301px);
+  width: 6px;
+  height: 6px;
+  top: 59%;
+  left: 75%;
+  -webkit-transform: translateZ(463px);
+          transform: translateZ(463px);
 }
 
 section #galaxy #stars .star:nth-child(180) {
   width: 6px;
   height: 6px;
-  top: 90%;
-  left: 60%;
-  -webkit-transform: translateZ(165px);
-          transform: translateZ(165px);
+  top: 95%;
+  left: 74%;
+  -webkit-transform: translateZ(100px);
+          transform: translateZ(100px);
 }
 
 section #galaxy #stars .star:nth-child(181) {
-  width: 4px;
-  height: 4px;
-  top: 81%;
-  left: 87%;
-  -webkit-transform: translateZ(11px);
-          transform: translateZ(11px);
+  width: 3px;
+  height: 3px;
+  top: 42%;
+  left: 49%;
+  -webkit-transform: translateZ(40px);
+          transform: translateZ(40px);
 }
 
 section #galaxy #stars .star:nth-child(182) {
-  width: 5px;
-  height: 5px;
-  top: 59%;
-  left: 80%;
-  -webkit-transform: translateZ(401px);
-          transform: translateZ(401px);
+  width: 4px;
+  height: 4px;
+  top: 57%;
+  left: 67%;
+  -webkit-transform: translateZ(201px);
+          transform: translateZ(201px);
 }
 
 section #galaxy #stars .star:nth-child(183) {
-  width: 3px;
-  height: 3px;
-  top: 19%;
-  left: 8%;
-  -webkit-transform: translateZ(285px);
-          transform: translateZ(285px);
+  width: 2px;
+  height: 2px;
+  top: 18%;
+  left: 60%;
+  -webkit-transform: translateZ(204px);
+          transform: translateZ(204px);
 }
 
 section #galaxy #stars .star:nth-child(184) {
-  width: 4px;
-  height: 4px;
-  top: 12%;
-  left: 10%;
-  -webkit-transform: translateZ(199px);
-          transform: translateZ(199px);
+  width: 3px;
+  height: 3px;
+  top: 20%;
+  left: 73%;
+  -webkit-transform: translateZ(286px);
+          transform: translateZ(286px);
 }
 
 section #galaxy #stars .star:nth-child(185) {
-  width: 2px;
-  height: 2px;
-  top: 8%;
-  left: 46%;
-  -webkit-transform: translateZ(216px);
-          transform: translateZ(216px);
+  width: 3px;
+  height: 3px;
+  top: 49%;
+  left: 57%;
+  -webkit-transform: translateZ(348px);
+          transform: translateZ(348px);
 }
 
 section #galaxy #stars .star:nth-child(186) {
-  width: 2px;
-  height: 2px;
-  top: 8%;
-  left: 28%;
-  -webkit-transform: translateZ(252px);
-          transform: translateZ(252px);
+  width: 6px;
+  height: 6px;
+  top: 65%;
+  left: 17%;
+  -webkit-transform: translateZ(51px);
+          transform: translateZ(51px);
 }
 
 section #galaxy #stars .star:nth-child(187) {
-  width: 5px;
-  height: 5px;
-  top: 25%;
-  left: 25%;
-  -webkit-transform: translateZ(362px);
-          transform: translateZ(362px);
+  width: 4px;
+  height: 4px;
+  top: 81%;
+  left: 48%;
+  -webkit-transform: translateZ(220px);
+          transform: translateZ(220px);
 }
 
 section #galaxy #stars .star:nth-child(188) {
-  width: 5px;
-  height: 5px;
-  top: 16%;
-  left: 90%;
-  -webkit-transform: translateZ(349px);
-          transform: translateZ(349px);
+  width: 3px;
+  height: 3px;
+  top: 21%;
+  left: 54%;
+  -webkit-transform: translateZ(169px);
+          transform: translateZ(169px);
 }
 
 section #galaxy #stars .star:nth-child(189) {
-  width: 4px;
-  height: 4px;
-  top: 95%;
-  left: 49%;
-  -webkit-transform: translateZ(430px);
-          transform: translateZ(430px);
+  width: 3px;
+  height: 3px;
+  top: 57%;
+  left: 43%;
+  -webkit-transform: translateZ(121px);
+          transform: translateZ(121px);
 }
 
 section #galaxy #stars .star:nth-child(190) {
-  width: 6px;
-  height: 6px;
-  top: 38%;
-  left: 63%;
-  -webkit-transform: translateZ(178px);
-          transform: translateZ(178px);
+  width: 5px;
+  height: 5px;
+  top: 24%;
+  left: 5%;
+  -webkit-transform: translateZ(444px);
+          transform: translateZ(444px);
 }
 
 section #galaxy #stars .star:nth-child(191) {
   width: 4px;
   height: 4px;
-  top: 52%;
-  left: 84%;
-  -webkit-transform: translateZ(495px);
-          transform: translateZ(495px);
+  top: 76%;
+  left: 31%;
+  -webkit-transform: translateZ(406px);
+          transform: translateZ(406px);
 }
 
 section #galaxy #stars .star:nth-child(192) {
-  width: 2px;
-  height: 2px;
-  top: 9%;
-  left: 5%;
-  -webkit-transform: translateZ(32px);
-          transform: translateZ(32px);
+  width: 4px;
+  height: 4px;
+  top: 42%;
+  left: 87%;
+  -webkit-transform: translateZ(123px);
+          transform: translateZ(123px);
 }
 
 section #galaxy #stars .star:nth-child(193) {
   width: 6px;
   height: 6px;
-  top: 95%;
-  left: 57%;
-  -webkit-transform: translateZ(413px);
-          transform: translateZ(413px);
+  top: 52%;
+  left: 46%;
+  -webkit-transform: translateZ(146px);
+          transform: translateZ(146px);
 }
 
 section #galaxy #stars .star:nth-child(194) {
-  width: 5px;
-  height: 5px;
-  top: 15%;
-  left: 56%;
-  -webkit-transform: translateZ(134px);
-          transform: translateZ(134px);
+  width: 3px;
+  height: 3px;
+  top: 41%;
+  left: 53%;
+  -webkit-transform: translateZ(91px);
+          transform: translateZ(91px);
 }
 
 section #galaxy #stars .star:nth-child(195) {
-  width: 5px;
-  height: 5px;
-  top: 84%;
-  left: 76%;
-  -webkit-transform: translateZ(173px);
-          transform: translateZ(173px);
+  width: 6px;
+  height: 6px;
+  top: 11%;
+  left: 77%;
+  -webkit-transform: translateZ(166px);
+          transform: translateZ(166px);
 }
 
 section #galaxy #stars .star:nth-child(196) {
   width: 3px;
   height: 3px;
-  top: 92%;
-  left: 24%;
-  -webkit-transform: translateZ(270px);
-          transform: translateZ(270px);
+  top: 58%;
+  left: 25%;
+  -webkit-transform: translateZ(275px);
+          transform: translateZ(275px);
 }
 
 section #galaxy #stars .star:nth-child(197) {
-  width: 3px;
-  height: 3px;
-  top: 54%;
-  left: 68%;
-  -webkit-transform: translateZ(491px);
-          transform: translateZ(491px);
+  width: 4px;
+  height: 4px;
+  top: 81%;
+  left: 8%;
+  -webkit-transform: translateZ(116px);
+          transform: translateZ(116px);
 }
 
 section #galaxy #stars .star:nth-child(198) {
-  width: 4px;
-  height: 4px;
-  top: 10%;
-  left: 23%;
-  -webkit-transform: translateZ(223px);
-          transform: translateZ(223px);
+  width: 6px;
+  height: 6px;
+  top: 47%;
+  left: 60%;
+  -webkit-transform: translateZ(255px);
+          transform: translateZ(255px);
 }
 
 section #galaxy #stars .star:nth-child(199) {
-  width: 2px;
-  height: 2px;
-  top: 62%;
-  left: 62%;
-  -webkit-transform: translateZ(205px);
-          transform: translateZ(205px);
+  width: 6px;
+  height: 6px;
+  top: 33%;
+  left: 73%;
+  -webkit-transform: translateZ(85px);
+          transform: translateZ(85px);
 }
 
 section #galaxy #stars .star:nth-child(200) {
-  width: 5px;
-  height: 5px;
-  top: 34%;
-  left: 32%;
-  -webkit-transform: translateZ(338px);
-          transform: translateZ(338px);
+  width: 2px;
+  height: 2px;
+  top: 42%;
+  left: 4%;
+  -webkit-transform: translateZ(483px);
+          transform: translateZ(483px);
 }
 
 section #galaxy #stars .star:nth-child(201) {
   width: 2px;
   height: 2px;
-  top: 22%;
-  left: 28%;
-  -webkit-transform: translateZ(340px);
-          transform: translateZ(340px);
+  top: 41%;
+  left: 77%;
+  -webkit-transform: translateZ(156px);
+          transform: translateZ(156px);
 }
 
 section #galaxy #stars .star:nth-child(202) {
-  width: 3px;
-  height: 3px;
-  top: 52%;
-  left: 95%;
-  -webkit-transform: translateZ(91px);
-          transform: translateZ(91px);
+  width: 5px;
+  height: 5px;
+  top: 70%;
+  left: 3%;
+  -webkit-transform: translateZ(8px);
+          transform: translateZ(8px);
 }
 
 section #galaxy #stars .star:nth-child(203) {
-  width: 4px;
-  height: 4px;
-  top: 55%;
-  left: 17%;
-  -webkit-transform: translateZ(46px);
-          transform: translateZ(46px);
+  width: 3px;
+  height: 3px;
+  top: 39%;
+  left: 68%;
+  -webkit-transform: translateZ(183px);
+          transform: translateZ(183px);
 }
 
 section #galaxy #stars .star:nth-child(204) {
-  width: 5px;
-  height: 5px;
-  top: 19%;
-  left: 6%;
-  -webkit-transform: translateZ(375px);
-          transform: translateZ(375px);
+  width: 2px;
+  height: 2px;
+  top: 22%;
+  left: 38%;
+  -webkit-transform: translateZ(261px);
+          transform: translateZ(261px);
 }
 
 section #galaxy #stars .star:nth-child(205) {
-  width: 3px;
-  height: 3px;
-  top: 64%;
-  left: 89%;
-  -webkit-transform: translateZ(293px);
-          transform: translateZ(293px);
+  width: 5px;
+  height: 5px;
+  top: 7%;
+  left: 61%;
+  -webkit-transform: translateZ(302px);
+          transform: translateZ(302px);
 }
 
 section #galaxy #stars .star:nth-child(206) {
-  width: 3px;
-  height: 3px;
-  top: 68%;
-  left: 84%;
-  -webkit-transform: translateZ(448px);
-          transform: translateZ(448px);
+  width: 5px;
+  height: 5px;
+  top: 64%;
+  left: 31%;
+  -webkit-transform: translateZ(381px);
+          transform: translateZ(381px);
 }
 
 section #galaxy #stars .star:nth-child(207) {
-  width: 6px;
-  height: 6px;
+  width: 2px;
+  height: 2px;
   top: 70%;
-  left: 94%;
-  -webkit-transform: translateZ(350px);
-          transform: translateZ(350px);
+  left: 13%;
+  -webkit-transform: translateZ(199px);
+          transform: translateZ(199px);
 }
 
 section #galaxy #stars .star:nth-child(208) {
-  width: 5px;
-  height: 5px;
-  top: 36%;
-  left: 91%;
-  -webkit-transform: translateZ(68px);
-          transform: translateZ(68px);
+  width: 4px;
+  height: 4px;
+  top: 66%;
+  left: 79%;
+  -webkit-transform: translateZ(29px);
+          transform: translateZ(29px);
 }
 
 section #galaxy #stars .star:nth-child(209) {
-  width: 3px;
-  height: 3px;
-  top: 13%;
-  left: 43%;
-  -webkit-transform: translateZ(140px);
-          transform: translateZ(140px);
+  width: 6px;
+  height: 6px;
+  top: 22%;
+  left: 48%;
+  -webkit-transform: translateZ(425px);
+          transform: translateZ(425px);
 }
 
 section #galaxy #stars .star:nth-child(210) {
-  width: 4px;
-  height: 4px;
-  top: 14%;
-  left: 60%;
-  -webkit-transform: translateZ(23px);
-          transform: translateZ(23px);
+  width: 3px;
+  height: 3px;
+  top: 7%;
+  left: 19%;
+  -webkit-transform: translateZ(472px);
+          transform: translateZ(472px);
 }
 
 section #galaxy #stars .star:nth-child(211) {
   width: 6px;
   height: 6px;
-  top: 49%;
-  left: 16%;
-  -webkit-transform: translateZ(471px);
-          transform: translateZ(471px);
+  top: 33%;
+  left: 67%;
+  -webkit-transform: translateZ(409px);
+          transform: translateZ(409px);
 }
 
 section #galaxy #stars .star:nth-child(212) {
-  width: 4px;
-  height: 4px;
-  top: 79%;
-  left: 33%;
-  -webkit-transform: translateZ(100px);
-          transform: translateZ(100px);
+  width: 5px;
+  height: 5px;
+  top: 17%;
+  left: 80%;
+  -webkit-transform: translateZ(295px);
+          transform: translateZ(295px);
 }
 
 section #galaxy #stars .star:nth-child(213) {
-  width: 2px;
-  height: 2px;
-  top: 11%;
-  left: 63%;
-  -webkit-transform: translateZ(490px);
-          transform: translateZ(490px);
+  width: 6px;
+  height: 6px;
+  top: 18%;
+  left: 42%;
+  -webkit-transform: translateZ(194px);
+          transform: translateZ(194px);
 }
 
 section #galaxy #stars .star:nth-child(214) {
-  width: 4px;
-  height: 4px;
-  top: 6%;
-  left: 22%;
-  -webkit-transform: translateZ(83px);
-          transform: translateZ(83px);
+  width: 2px;
+  height: 2px;
+  top: 84%;
+  left: 57%;
+  -webkit-transform: translateZ(445px);
+          transform: translateZ(445px);
 }
 
 section #galaxy #stars .star:nth-child(215) {
-  width: 2px;
-  height: 2px;
-  top: 14%;
-  left: 14%;
-  -webkit-transform: translateZ(61px);
-          transform: translateZ(61px);
+  width: 3px;
+  height: 3px;
+  top: 89%;
+  left: 79%;
+  -webkit-transform: translateZ(220px);
+          transform: translateZ(220px);
 }
 
 section #galaxy #stars .star:nth-child(216) {
-  width: 5px;
-  height: 5px;
-  top: 50%;
-  left: 82%;
-  -webkit-transform: translateZ(229px);
-          transform: translateZ(229px);
+  width: 2px;
+  height: 2px;
+  top: 75%;
+  left: 2%;
+  -webkit-transform: translateZ(78px);
+          transform: translateZ(78px);
 }
 
 section #galaxy #stars .star:nth-child(217) {
-  width: 3px;
-  height: 3px;
-  top: 62%;
-  left: 39%;
-  -webkit-transform: translateZ(203px);
-          transform: translateZ(203px);
+  width: 5px;
+  height: 5px;
+  top: 89%;
+  left: 45%;
+  -webkit-transform: translateZ(277px);
+          transform: translateZ(277px);
 }
 
 section #galaxy #stars .star:nth-child(218) {
-  width: 4px;
-  height: 4px;
-  top: 28%;
-  left: 73%;
-  -webkit-transform: translateZ(345px);
-          transform: translateZ(345px);
+  width: 3px;
+  height: 3px;
+  top: 53%;
+  left: 9%;
+  -webkit-transform: translateZ(36px);
+          transform: translateZ(36px);
 }
 
 section #galaxy #stars .star:nth-child(219) {
-  width: 2px;
-  height: 2px;
-  top: 81%;
-  left: 84%;
-  -webkit-transform: translateZ(462px);
-          transform: translateZ(462px);
+  width: 3px;
+  height: 3px;
+  top: 62%;
+  left: 52%;
+  -webkit-transform: translateZ(2px);
+          transform: translateZ(2px);
 }
 
 section #galaxy #stars .star:nth-child(220) {
-  width: 4px;
-  height: 4px;
-  top: 57%;
-  left: 18%;
-  -webkit-transform: translateZ(97px);
-          transform: translateZ(97px);
+  width: 5px;
+  height: 5px;
+  top: 82%;
+  left: 82%;
+  -webkit-transform: translateZ(76px);
+          transform: translateZ(76px);
 }
 
 section #galaxy #stars .star:nth-child(221) {
-  width: 3px;
-  height: 3px;
-  top: 2%;
-  left: 75%;
-  -webkit-transform: translateZ(393px);
-          transform: translateZ(393px);
+  width: 6px;
+  height: 6px;
+  top: 7%;
+  left: 36%;
+  -webkit-transform: translateZ(227px);
+          transform: translateZ(227px);
 }
 
 section #galaxy #stars .star:nth-child(222) {
-  width: 6px;
-  height: 6px;
-  top: 35%;
-  left: 46%;
-  -webkit-transform: translateZ(492px);
-          transform: translateZ(492px);
+  width: 5px;
+  height: 5px;
+  top: 83%;
+  left: 80%;
+  -webkit-transform: translateZ(356px);
+          transform: translateZ(356px);
 }
 
 section #galaxy #stars .star:nth-child(223) {
-  width: 3px;
-  height: 3px;
-  top: 80%;
-  left: 34%;
-  -webkit-transform: translateZ(101px);
-          transform: translateZ(101px);
+  width: 5px;
+  height: 5px;
+  top: 95%;
+  left: 50%;
+  -webkit-transform: translateZ(249px);
+          transform: translateZ(249px);
 }
 
 section #galaxy #stars .star:nth-child(224) {
   width: 4px;
   height: 4px;
-  top: 83%;
-  left: 55%;
-  -webkit-transform: translateZ(86px);
-          transform: translateZ(86px);
+  top: 14%;
+  left: 76%;
+  -webkit-transform: translateZ(154px);
+          transform: translateZ(154px);
 }
 
 section #galaxy #stars .star:nth-child(225) {
-  width: 6px;
-  height: 6px;
-  top: 23%;
-  left: 45%;
-  -webkit-transform: translateZ(133px);
-          transform: translateZ(133px);
+  width: 4px;
+  height: 4px;
+  top: 12%;
+  left: 69%;
+  -webkit-transform: translateZ(162px);
+          transform: translateZ(162px);
 }
 
 section #galaxy #stars .star:nth-child(226) {
-  width: 5px;
-  height: 5px;
-  top: 87%;
-  left: 59%;
-  -webkit-transform: translateZ(422px);
-          transform: translateZ(422px);
+  width: 3px;
+  height: 3px;
+  top: 12%;
+  left: 15%;
+  -webkit-transform: translateZ(136px);
+          transform: translateZ(136px);
 }
 
 section #galaxy #stars .star:nth-child(227) {
-  width: 4px;
-  height: 4px;
-  top: 78%;
-  left: 32%;
-  -webkit-transform: translateZ(178px);
-          transform: translateZ(178px);
+  width: 3px;
+  height: 3px;
+  top: 11%;
+  left: 81%;
+  -webkit-transform: translateZ(431px);
+          transform: translateZ(431px);
 }
 
 section #galaxy #stars .star:nth-child(228) {
-  width: 5px;
-  height: 5px;
-  top: 25%;
-  left: 45%;
-  -webkit-transform: translateZ(204px);
-          transform: translateZ(204px);
+  width: 2px;
+  height: 2px;
+  top: 82%;
+  left: 37%;
+  -webkit-transform: translateZ(148px);
+          transform: translateZ(148px);
 }
 
 section #galaxy #stars .star:nth-child(229) {
   width: 6px;
   height: 6px;
-  top: 70%;
-  left: 47%;
-  -webkit-transform: translateZ(32px);
-          transform: translateZ(32px);
+  top: 57%;
+  left: 63%;
+  -webkit-transform: translateZ(349px);
+          transform: translateZ(349px);
 }
 
 section #galaxy #stars .star:nth-child(230) {
-  width: 4px;
-  height: 4px;
-  top: 82%;
-  left: 38%;
-  -webkit-transform: translateZ(288px);
-          transform: translateZ(288px);
+  width: 2px;
+  height: 2px;
+  top: 18%;
+  left: 36%;
+  -webkit-transform: translateZ(68px);
+          transform: translateZ(68px);
 }
 
 section #galaxy #stars .star:nth-child(231) {
-  width: 5px;
-  height: 5px;
-  top: 3%;
-  left: 88%;
-  -webkit-transform: translateZ(393px);
-          transform: translateZ(393px);
+  width: 2px;
+  height: 2px;
+  top: 47%;
+  left: 6%;
+  -webkit-transform: translateZ(327px);
+          transform: translateZ(327px);
 }
 
 section #galaxy #stars .star:nth-child(232) {
-  width: 3px;
-  height: 3px;
-  top: 12%;
-  left: 44%;
-  -webkit-transform: translateZ(164px);
-          transform: translateZ(164px);
+  width: 5px;
+  height: 5px;
+  top: 72%;
+  left: 92%;
+  -webkit-transform: translateZ(121px);
+          transform: translateZ(121px);
 }
 
 section #galaxy #stars .star:nth-child(233) {
-  width: 6px;
-  height: 6px;
-  top: 27%;
-  left: 94%;
-  -webkit-transform: translateZ(454px);
-          transform: translateZ(454px);
+  width: 2px;
+  height: 2px;
+  top: 1%;
+  left: 43%;
+  -webkit-transform: translateZ(162px);
+          transform: translateZ(162px);
 }
 
 section #galaxy #stars .star:nth-child(234) {
-  width: 4px;
-  height: 4px;
-  top: 49%;
-  left: 85%;
-  -webkit-transform: translateZ(361px);
-          transform: translateZ(361px);
+  width: 5px;
+  height: 5px;
+  top: 32%;
+  left: 23%;
+  -webkit-transform: translateZ(182px);
+          transform: translateZ(182px);
 }
 
 section #galaxy #stars .star:nth-child(235) {
-  width: 6px;
-  height: 6px;
-  top: 53%;
-  left: 75%;
-  -webkit-transform: translateZ(49px);
-          transform: translateZ(49px);
+  width: 3px;
+  height: 3px;
+  top: 33%;
+  left: 19%;
+  -webkit-transform: translateZ(253px);
+          transform: translateZ(253px);
 }
 
 section #galaxy #stars .star:nth-child(236) {
-  width: 4px;
-  height: 4px;
-  top: 72%;
-  left: 4%;
-  -webkit-transform: translateZ(78px);
-          transform: translateZ(78px);
+  width: 2px;
+  height: 2px;
+  top: 50%;
+  left: 23%;
+  -webkit-transform: translateZ(414px);
+          transform: translateZ(414px);
 }
 
 section #galaxy #stars .star:nth-child(237) {
-  width: 5px;
-  height: 5px;
-  top: 59%;
-  left: 54%;
-  -webkit-transform: translateZ(352px);
-          transform: translateZ(352px);
+  width: 3px;
+  height: 3px;
+  top: 1%;
+  left: 40%;
+  -webkit-transform: translateZ(29px);
+          transform: translateZ(29px);
 }
 
 section #galaxy #stars .star:nth-child(238) {
-  width: 4px;
-  height: 4px;
-  top: 82%;
-  left: 42%;
-  -webkit-transform: translateZ(217px);
-          transform: translateZ(217px);
+  width: 2px;
+  height: 2px;
+  top: 54%;
+  left: 69%;
+  -webkit-transform: translateZ(276px);
+          transform: translateZ(276px);
 }
 
 section #galaxy #stars .star:nth-child(239) {
-  width: 6px;
-  height: 6px;
-  top: 6%;
-  left: 22%;
-  -webkit-transform: translateZ(434px);
-          transform: translateZ(434px);
+  width: 4px;
+  height: 4px;
+  top: 27%;
+  left: 55%;
+  -webkit-transform: translateZ(495px);
+          transform: translateZ(495px);
 }
 
 section #galaxy #stars .star:nth-child(240) {
-  width: 6px;
-  height: 6px;
-  top: 77%;
-  left: 33%;
-  -webkit-transform: translateZ(134px);
-          transform: translateZ(134px);
+  width: 5px;
+  height: 5px;
+  top: 37%;
+  left: 23%;
+  -webkit-transform: translateZ(423px);
+          transform: translateZ(423px);
 }
 
 section #galaxy #stars .star:nth-child(241) {
   width: 5px;
   height: 5px;
-  top: 70%;
-  left: 22%;
-  -webkit-transform: translateZ(154px);
-          transform: translateZ(154px);
+  top: 48%;
+  left: 10%;
+  -webkit-transform: translateZ(128px);
+          transform: translateZ(128px);
 }
 
 section #galaxy #stars .star:nth-child(242) {
-  width: 2px;
-  height: 2px;
-  top: 4%;
-  left: 42%;
-  -webkit-transform: translateZ(361px);
-          transform: translateZ(361px);
+  width: 3px;
+  height: 3px;
+  top: 43%;
+  left: 58%;
+  -webkit-transform: translateZ(140px);
+          transform: translateZ(140px);
 }
 
 section #galaxy #stars .star:nth-child(243) {
   width: 2px;
   height: 2px;
-  top: 47%;
-  left: 17%;
-  -webkit-transform: translateZ(144px);
-          transform: translateZ(144px);
-}
-
-section #galaxy #stars .star:nth-child(244) {
-  width: 2px;
-  height: 2px;
-  top: 45%;
-  left: 12%;
-  -webkit-transform: translateZ(316px);
-          transform: translateZ(316px);
-}
-
-section #galaxy #stars .star:nth-child(245) {
-  width: 5px;
-  height: 5px;
   top: 29%;
-  left: 29%;
+  left: 87%;
   -webkit-transform: translateZ(242px);
           transform: translateZ(242px);
 }
 
+section #galaxy #stars .star:nth-child(244) {
+  width: 5px;
+  height: 5px;
+  top: 12%;
+  left: 95%;
+  -webkit-transform: translateZ(270px);
+          transform: translateZ(270px);
+}
+
+section #galaxy #stars .star:nth-child(245) {
+  width: 6px;
+  height: 6px;
+  top: 47%;
+  left: 80%;
+  -webkit-transform: translateZ(119px);
+          transform: translateZ(119px);
+}
+
 section #galaxy #stars .star:nth-child(246) {
-  width: 4px;
-  height: 4px;
-  top: 36%;
-  left: 26%;
-  -webkit-transform: translateZ(387px);
-          transform: translateZ(387px);
+  width: 6px;
+  height: 6px;
+  top: 51%;
+  left: 66%;
+  -webkit-transform: translateZ(160px);
+          transform: translateZ(160px);
 }
 
 section #galaxy #stars .star:nth-child(247) {
-  width: 2px;
-  height: 2px;
-  top: 49%;
-  left: 12%;
-  -webkit-transform: translateZ(289px);
-          transform: translateZ(289px);
+  width: 5px;
+  height: 5px;
+  top: 73%;
+  left: 88%;
+  -webkit-transform: translateZ(171px);
+          transform: translateZ(171px);
 }
 
 section #galaxy #stars .star:nth-child(248) {
-  width: 5px;
-  height: 5px;
-  top: 36%;
-  left: 73%;
-  -webkit-transform: translateZ(408px);
-          transform: translateZ(408px);
+  width: 6px;
+  height: 6px;
+  top: 2%;
+  left: 12%;
+  -webkit-transform: translateZ(317px);
+          transform: translateZ(317px);
 }
 
 section #galaxy #stars .star:nth-child(249) {
-  width: 4px;
-  height: 4px;
-  top: 94%;
-  left: 82%;
-  -webkit-transform: translateZ(6px);
-          transform: translateZ(6px);
+  width: 6px;
+  height: 6px;
+  top: 59%;
+  left: 24%;
+  -webkit-transform: translateZ(129px);
+          transform: translateZ(129px);
 }
 
 section #galaxy #stars .star:nth-child(250) {
-  width: 6px;
-  height: 6px;
-  top: 28%;
-  left: 62%;
-  -webkit-transform: translateZ(427px);
-          transform: translateZ(427px);
+  width: 4px;
+  height: 4px;
+  top: 56%;
+  left: 95%;
+  -webkit-transform: translateZ(72px);
+          transform: translateZ(72px);
 }
 
 section #galaxy #stars .star:nth-child(251) {
   width: 2px;
   height: 2px;
-  top: 81%;
-  left: 13%;
-  -webkit-transform: translateZ(252px);
-          transform: translateZ(252px);
+  top: 83%;
+  left: 73%;
+  -webkit-transform: translateZ(327px);
+          transform: translateZ(327px);
 }
 
 section #galaxy #stars .star:nth-child(252) {
-  width: 6px;
-  height: 6px;
-  top: 64%;
-  left: 38%;
-  -webkit-transform: translateZ(190px);
-          transform: translateZ(190px);
+  width: 4px;
+  height: 4px;
+  top: 27%;
+  left: 42%;
+  -webkit-transform: translateZ(164px);
+          transform: translateZ(164px);
 }
 
 section #galaxy #stars .star:nth-child(253) {
   width: 2px;
   height: 2px;
-  top: 67%;
-  left: 81%;
-  -webkit-transform: translateZ(40px);
-          transform: translateZ(40px);
+  top: 66%;
+  left: 82%;
+  -webkit-transform: translateZ(401px);
+          transform: translateZ(401px);
 }
 
 section #galaxy #stars .star:nth-child(254) {
-  width: 5px;
-  height: 5px;
-  top: 25%;
-  left: 70%;
-  -webkit-transform: translateZ(186px);
-          transform: translateZ(186px);
+  width: 4px;
+  height: 4px;
+  top: 17%;
+  left: 82%;
+  -webkit-transform: translateZ(402px);
+          transform: translateZ(402px);
 }
 
 section #galaxy #stars .star:nth-child(255) {
-  width: 3px;
-  height: 3px;
-  top: 8%;
-  left: 51%;
-  -webkit-transform: translateZ(266px);
-          transform: translateZ(266px);
+  width: 6px;
+  height: 6px;
+  top: 27%;
+  left: 37%;
+  -webkit-transform: translateZ(310px);
+          transform: translateZ(310px);
 }
 
 section #galaxy #stars .star:nth-child(256) {
-  width: 3px;
-  height: 3px;
-  top: 63%;
-  left: 35%;
-  -webkit-transform: translateZ(153px);
-          transform: translateZ(153px);
+  width: 6px;
+  height: 6px;
+  top: 38%;
+  left: 85%;
+  -webkit-transform: translateZ(113px);
+          transform: translateZ(113px);
 }
 
 section #galaxy #stars .star:nth-child(257) {
-  width: 5px;
-  height: 5px;
-  top: 70%;
-  left: 84%;
-  -webkit-transform: translateZ(144px);
-          transform: translateZ(144px);
+  width: 4px;
+  height: 4px;
+  top: 34%;
+  left: 7%;
+  -webkit-transform: translateZ(216px);
+          transform: translateZ(216px);
 }
 
 section #galaxy #stars .star:nth-child(258) {
-  width: 4px;
-  height: 4px;
-  top: 54%;
-  left: 53%;
-  -webkit-transform: translateZ(189px);
-          transform: translateZ(189px);
+  width: 5px;
+  height: 5px;
+  top: 69%;
+  left: 84%;
+  -webkit-transform: translateZ(350px);
+          transform: translateZ(350px);
 }
 
 section #galaxy #stars .star:nth-child(259) {
-  width: 6px;
-  height: 6px;
-  top: 40%;
-  left: 91%;
-  -webkit-transform: translateZ(482px);
-          transform: translateZ(482px);
+  width: 5px;
+  height: 5px;
+  top: 58%;
+  left: 70%;
+  -webkit-transform: translateZ(313px);
+          transform: translateZ(313px);
 }
 
 section #galaxy #stars .star:nth-child(260) {
   width: 3px;
   height: 3px;
-  top: 71%;
-  left: 71%;
-  -webkit-transform: translateZ(456px);
-          transform: translateZ(456px);
+  top: 22%;
+  left: 52%;
+  -webkit-transform: translateZ(113px);
+          transform: translateZ(113px);
 }
 
 section #galaxy #stars .star:nth-child(261) {
-  width: 6px;
-  height: 6px;
+  width: 3px;
+  height: 3px;
   top: 85%;
-  left: 8%;
-  -webkit-transform: translateZ(431px);
-          transform: translateZ(431px);
+  left: 58%;
+  -webkit-transform: translateZ(106px);
+          transform: translateZ(106px);
 }
 
 section #galaxy #stars .star:nth-child(262) {
-  width: 2px;
-  height: 2px;
-  top: 94%;
-  left: 4%;
-  -webkit-transform: translateZ(314px);
-          transform: translateZ(314px);
+  width: 4px;
+  height: 4px;
+  top: 41%;
+  left: 93%;
+  -webkit-transform: translateZ(419px);
+          transform: translateZ(419px);
 }
 
 section #galaxy #stars .star:nth-child(263) {
   width: 6px;
   height: 6px;
-  top: 77%;
-  left: 52%;
-  -webkit-transform: translateZ(10px);
-          transform: translateZ(10px);
+  top: 46%;
+  left: 21%;
+  -webkit-transform: translateZ(66px);
+          transform: translateZ(66px);
 }
 
 section #galaxy #stars .star:nth-child(264) {
-  width: 6px;
-  height: 6px;
-  top: 36%;
-  left: 33%;
-  -webkit-transform: translateZ(264px);
-          transform: translateZ(264px);
+  width: 3px;
+  height: 3px;
+  top: 77%;
+  left: 3%;
+  -webkit-transform: translateZ(215px);
+          transform: translateZ(215px);
 }
 
 section #galaxy #stars .star:nth-child(265) {
-  width: 3px;
-  height: 3px;
-  top: 64%;
-  left: 33%;
-  -webkit-transform: translateZ(127px);
-          transform: translateZ(127px);
+  width: 6px;
+  height: 6px;
+  top: 61%;
+  left: 20%;
+  -webkit-transform: translateZ(292px);
+          transform: translateZ(292px);
 }
 
 section #galaxy #stars .star:nth-child(266) {
-  width: 4px;
-  height: 4px;
-  top: 15%;
-  left: 2%;
-  -webkit-transform: translateZ(394px);
-          transform: translateZ(394px);
+  width: 5px;
+  height: 5px;
+  top: 52%;
+  left: 70%;
+  -webkit-transform: translateZ(455px);
+          transform: translateZ(455px);
 }
 
 section #galaxy #stars .star:nth-child(267) {
   width: 2px;
   height: 2px;
-  top: 14%;
-  left: 42%;
-  -webkit-transform: translateZ(465px);
-          transform: translateZ(465px);
+  top: 42%;
+  left: 43%;
+  -webkit-transform: translateZ(222px);
+          transform: translateZ(222px);
 }
 
 section #galaxy #stars .star:nth-child(268) {
-  width: 6px;
-  height: 6px;
-  top: 20%;
-  left: 62%;
-  -webkit-transform: translateZ(167px);
-          transform: translateZ(167px);
+  width: 5px;
+  height: 5px;
+  top: 60%;
+  left: 59%;
+  -webkit-transform: translateZ(20px);
+          transform: translateZ(20px);
 }
 
 section #galaxy #stars .star:nth-child(269) {
   width: 6px;
   height: 6px;
-  top: 91%;
-  left: 80%;
-  -webkit-transform: translateZ(152px);
-          transform: translateZ(152px);
+  top: 25%;
+  left: 1%;
+  -webkit-transform: translateZ(334px);
+          transform: translateZ(334px);
 }
 
 section #galaxy #stars .star:nth-child(270) {
-  width: 6px;
-  height: 6px;
-  top: 7%;
-  left: 70%;
-  -webkit-transform: translateZ(346px);
-          transform: translateZ(346px);
+  width: 2px;
+  height: 2px;
+  top: 87%;
+  left: 20%;
+  -webkit-transform: translateZ(483px);
+          transform: translateZ(483px);
 }
 
 section #galaxy #stars .star:nth-child(271) {
-  width: 6px;
-  height: 6px;
-  top: 53%;
-  left: 75%;
-  -webkit-transform: translateZ(409px);
-          transform: translateZ(409px);
+  width: 4px;
+  height: 4px;
+  top: 40%;
+  left: 20%;
+  -webkit-transform: translateZ(146px);
+          transform: translateZ(146px);
 }
 
 section #galaxy #stars .star:nth-child(272) {
   width: 5px;
   height: 5px;
-  top: 42%;
-  left: 76%;
-  -webkit-transform: translateZ(259px);
-          transform: translateZ(259px);
+  top: 82%;
+  left: 64%;
+  -webkit-transform: translateZ(74px);
+          transform: translateZ(74px);
 }
 
 section #galaxy #stars .star:nth-child(273) {
-  width: 6px;
-  height: 6px;
-  top: 66%;
-  left: 91%;
-  -webkit-transform: translateZ(309px);
-          transform: translateZ(309px);
+  width: 4px;
+  height: 4px;
+  top: 13%;
+  left: 70%;
+  -webkit-transform: translateZ(13px);
+          transform: translateZ(13px);
 }
 
 section #galaxy #stars .star:nth-child(274) {
-  width: 6px;
-  height: 6px;
-  top: 54%;
-  left: 28%;
-  -webkit-transform: translateZ(360px);
-          transform: translateZ(360px);
+  width: 5px;
+  height: 5px;
+  top: 48%;
+  left: 81%;
+  -webkit-transform: translateZ(252px);
+          transform: translateZ(252px);
 }
 
 section #galaxy #stars .star:nth-child(275) {
-  width: 4px;
-  height: 4px;
-  top: 39%;
-  left: 87%;
-  -webkit-transform: translateZ(346px);
-          transform: translateZ(346px);
+  width: 6px;
+  height: 6px;
+  top: 23%;
+  left: 72%;
+  -webkit-transform: translateZ(293px);
+          transform: translateZ(293px);
 }
 
 section #galaxy #stars .star:nth-child(276) {
-  width: 2px;
-  height: 2px;
-  top: 8%;
-  left: 40%;
-  -webkit-transform: translateZ(308px);
-          transform: translateZ(308px);
+  width: 4px;
+  height: 4px;
+  top: 21%;
+  left: 20%;
+  -webkit-transform: translateZ(165px);
+          transform: translateZ(165px);
 }
 
 section #galaxy #stars .star:nth-child(277) {
-  width: 6px;
-  height: 6px;
-  top: 51%;
-  left: 90%;
-  -webkit-transform: translateZ(420px);
-          transform: translateZ(420px);
+  width: 2px;
+  height: 2px;
+  top: 13%;
+  left: 62%;
+  -webkit-transform: translateZ(246px);
+          transform: translateZ(246px);
 }
 
 section #galaxy #stars .star:nth-child(278) {
-  width: 3px;
-  height: 3px;
-  top: 77%;
-  left: 65%;
-  -webkit-transform: translateZ(345px);
-          transform: translateZ(345px);
+  width: 4px;
+  height: 4px;
+  top: 14%;
+  left: 1%;
+  -webkit-transform: translateZ(289px);
+          transform: translateZ(289px);
 }
 
 section #galaxy #stars .star:nth-child(279) {
-  width: 2px;
-  height: 2px;
-  top: 56%;
-  left: 13%;
-  -webkit-transform: translateZ(291px);
-          transform: translateZ(291px);
+  width: 6px;
+  height: 6px;
+  top: 29%;
+  left: 43%;
+  -webkit-transform: translateZ(373px);
+          transform: translateZ(373px);
 }
 
 section #galaxy #stars .star:nth-child(280) {
-  width: 3px;
-  height: 3px;
-  top: 11%;
-  left: 47%;
-  -webkit-transform: translateZ(114px);
-          transform: translateZ(114px);
+  width: 5px;
+  height: 5px;
+  top: 53%;
+  left: 77%;
+  -webkit-transform: translateZ(497px);
+          transform: translateZ(497px);
 }
 
 section #galaxy #stars .star:nth-child(281) {
-  width: 2px;
-  height: 2px;
-  top: 33%;
-  left: 23%;
-  -webkit-transform: translateZ(281px);
-          transform: translateZ(281px);
+  width: 5px;
+  height: 5px;
+  top: 86%;
+  left: 20%;
+  -webkit-transform: translateZ(261px);
+          transform: translateZ(261px);
 }
 
 section #galaxy #stars .star:nth-child(282) {
   width: 4px;
   height: 4px;
-  top: 13%;
-  left: 6%;
-  -webkit-transform: translateZ(484px);
-          transform: translateZ(484px);
+  top: 42%;
+  left: 86%;
+  -webkit-transform: translateZ(209px);
+          transform: translateZ(209px);
 }
 
 section #galaxy #stars .star:nth-child(283) {
-  width: 4px;
-  height: 4px;
-  top: 45%;
-  left: 3%;
-  -webkit-transform: translateZ(127px);
-          transform: translateZ(127px);
+  width: 6px;
+  height: 6px;
+  top: 57%;
+  left: 73%;
+  -webkit-transform: translateZ(116px);
+          transform: translateZ(116px);
 }
 
 section #galaxy #stars .star:nth-child(284) {
-  width: 6px;
-  height: 6px;
-  top: 81%;
-  left: 51%;
-  -webkit-transform: translateZ(309px);
-          transform: translateZ(309px);
+  width: 3px;
+  height: 3px;
+  top: 80%;
+  left: 31%;
+  -webkit-transform: translateZ(437px);
+          transform: translateZ(437px);
 }
 
 section #galaxy #stars .star:nth-child(285) {
-  width: 4px;
-  height: 4px;
-  top: 86%;
-  left: 17%;
-  -webkit-transform: translateZ(360px);
-          transform: translateZ(360px);
+  width: 2px;
+  height: 2px;
+  top: 55%;
+  left: 24%;
+  -webkit-transform: translateZ(25px);
+          transform: translateZ(25px);
 }
 
 section #galaxy #stars .star:nth-child(286) {
-  width: 2px;
-  height: 2px;
-  top: 17%;
+  width: 6px;
+  height: 6px;
+  top: 36%;
   left: 10%;
-  -webkit-transform: translateZ(12px);
-          transform: translateZ(12px);
+  -webkit-transform: translateZ(372px);
+          transform: translateZ(372px);
 }
 
 section #galaxy #stars .star:nth-child(287) {
-  width: 3px;
-  height: 3px;
+  width: 2px;
+  height: 2px;
   top: 11%;
-  left: 69%;
-  -webkit-transform: translateZ(187px);
-          transform: translateZ(187px);
+  left: 15%;
+  -webkit-transform: translateZ(489px);
+          transform: translateZ(489px);
 }
 
 section #galaxy #stars .star:nth-child(288) {
-  width: 4px;
-  height: 4px;
-  top: 64%;
-  left: 36%;
-  -webkit-transform: translateZ(424px);
-          transform: translateZ(424px);
+  width: 5px;
+  height: 5px;
+  top: 82%;
+  left: 41%;
+  -webkit-transform: translateZ(155px);
+          transform: translateZ(155px);
 }
 
 section #galaxy #stars .star:nth-child(289) {
   width: 5px;
   height: 5px;
-  top: 41%;
-  left: 71%;
-  -webkit-transform: translateZ(322px);
-          transform: translateZ(322px);
+  top: 21%;
+  left: 10%;
+  -webkit-transform: translateZ(275px);
+          transform: translateZ(275px);
 }
 
 section #galaxy #stars .star:nth-child(290) {
   width: 3px;
   height: 3px;
-  top: 94%;
-  left: 91%;
-  -webkit-transform: translateZ(133px);
-          transform: translateZ(133px);
+  top: 26%;
+  left: 88%;
+  -webkit-transform: translateZ(193px);
+          transform: translateZ(193px);
 }
 
 section #galaxy #stars .star:nth-child(291) {
-  width: 4px;
-  height: 4px;
-  top: 2%;
-  left: 3%;
-  -webkit-transform: translateZ(234px);
-          transform: translateZ(234px);
+  width: 6px;
+  height: 6px;
+  top: 74%;
+  left: 11%;
+  -webkit-transform: translateZ(78px);
+          transform: translateZ(78px);
 }
 
 section #galaxy #stars .star:nth-child(292) {
-  width: 2px;
-  height: 2px;
-  top: 2%;
-  left: 74%;
-  -webkit-transform: translateZ(359px);
-          transform: translateZ(359px);
+  width: 3px;
+  height: 3px;
+  top: 39%;
+  left: 61%;
+  -webkit-transform: translateZ(409px);
+          transform: translateZ(409px);
 }
 
 section #galaxy #stars .star:nth-child(293) {
-  width: 3px;
-  height: 3px;
-  top: 21%;
-  left: 34%;
-  -webkit-transform: translateZ(418px);
-          transform: translateZ(418px);
+  width: 5px;
+  height: 5px;
+  top: 2%;
+  left: 94%;
+  -webkit-transform: translateZ(291px);
+          transform: translateZ(291px);
 }
 
 section #galaxy #stars .star:nth-child(294) {
-  width: 3px;
-  height: 3px;
-  top: 88%;
-  left: 40%;
-  -webkit-transform: translateZ(411px);
-          transform: translateZ(411px);
+  width: 4px;
+  height: 4px;
+  top: 92%;
+  left: 63%;
+  -webkit-transform: translateZ(260px);
+          transform: translateZ(260px);
 }
 
 section #galaxy #stars .star:nth-child(295) {
-  width: 5px;
-  height: 5px;
-  top: 54%;
-  left: 74%;
-  -webkit-transform: translateZ(54px);
-          transform: translateZ(54px);
+  width: 3px;
+  height: 3px;
+  top: 23%;
+  left: 33%;
+  -webkit-transform: translateZ(89px);
+          transform: translateZ(89px);
 }
 
 section #galaxy #stars .star:nth-child(296) {
   width: 2px;
   height: 2px;
-  top: 57%;
-  left: 86%;
-  -webkit-transform: translateZ(101px);
-          transform: translateZ(101px);
+  top: 2%;
+  left: 69%;
+  -webkit-transform: translateZ(308px);
+          transform: translateZ(308px);
 }
 
 section #galaxy #stars .star:nth-child(297) {
-  width: 2px;
-  height: 2px;
-  top: 37%;
-  left: 79%;
-  -webkit-transform: translateZ(235px);
-          transform: translateZ(235px);
+  width: 4px;
+  height: 4px;
+  top: 88%;
+  left: 93%;
+  -webkit-transform: translateZ(272px);
+          transform: translateZ(272px);
 }
 
 section #galaxy #stars .star:nth-child(298) {
-  width: 2px;
-  height: 2px;
-  top: 55%;
-  left: 94%;
-  -webkit-transform: translateZ(272px);
-          transform: translateZ(272px);
+  width: 5px;
+  height: 5px;
+  top: 33%;
+  left: 51%;
+  -webkit-transform: translateZ(175px);
+          transform: translateZ(175px);
 }
 
 section #galaxy #stars .star:nth-child(299) {
   width: 6px;
   height: 6px;
-  top: 62%;
-  left: 82%;
-  -webkit-transform: translateZ(296px);
-          transform: translateZ(296px);
+  top: 56%;
+  left: 45%;
+  -webkit-transform: translateZ(116px);
+          transform: translateZ(116px);
 }
 
 section #galaxy #stars .star:nth-child(300) {
-  width: 6px;
-  height: 6px;
-  top: 10%;
-  left: 89%;
-  -webkit-transform: translateZ(463px);
-          transform: translateZ(463px);
+  width: 5px;
+  height: 5px;
+  top: 73%;
+  left: 60%;
+  -webkit-transform: translateZ(347px);
+          transform: translateZ(347px);
 }
 
 section #galaxy #stars .star:nth-child(301) {
-  width: 5px;
-  height: 5px;
-  top: 63%;
-  left: 26%;
-  -webkit-transform: translateZ(222px);
-          transform: translateZ(222px);
+  width: 3px;
+  height: 3px;
+  top: 18%;
+  left: 59%;
+  -webkit-transform: translateZ(238px);
+          transform: translateZ(238px);
 }
 
 section #galaxy #stars .star:nth-child(302) {
-  width: 6px;
-  height: 6px;
-  top: 11%;
-  left: 19%;
-  -webkit-transform: translateZ(84px);
-          transform: translateZ(84px);
+  width: 2px;
+  height: 2px;
+  top: 15%;
+  left: 11%;
+  -webkit-transform: translateZ(125px);
+          transform: translateZ(125px);
 }
 
 section #galaxy #stars .star:nth-child(303) {
-  width: 4px;
-  height: 4px;
-  top: 60%;
-  left: 33%;
-  -webkit-transform: translateZ(16px);
-          transform: translateZ(16px);
+  width: 6px;
+  height: 6px;
+  top: 41%;
+  left: 61%;
+  -webkit-transform: translateZ(201px);
+          transform: translateZ(201px);
 }
 
 section #galaxy #stars .star:nth-child(304) {
-  width: 5px;
-  height: 5px;
-  top: 7%;
-  left: 18%;
-  -webkit-transform: translateZ(91px);
-          transform: translateZ(91px);
+  width: 6px;
+  height: 6px;
+  top: 91%;
+  left: 4%;
+  -webkit-transform: translateZ(412px);
+          transform: translateZ(412px);
 }
 
 section #galaxy #stars .star:nth-child(305) {
-  width: 5px;
-  height: 5px;
-  top: 21%;
-  left: 10%;
-  -webkit-transform: translateZ(450px);
-          transform: translateZ(450px);
+  width: 2px;
+  height: 2px;
+  top: 1%;
+  left: 69%;
+  -webkit-transform: translateZ(309px);
+          transform: translateZ(309px);
 }
 
 section #galaxy #stars .star:nth-child(306) {
   width: 5px;
   height: 5px;
-  top: 27%;
-  left: 13%;
-  -webkit-transform: translateZ(246px);
-          transform: translateZ(246px);
+  top: 77%;
+  left: 61%;
+  -webkit-transform: translateZ(78px);
+          transform: translateZ(78px);
 }
 
 section #galaxy #stars .star:nth-child(307) {
   width: 3px;
   height: 3px;
-  top: 2%;
-  left: 77%;
-  -webkit-transform: translateZ(9px);
-          transform: translateZ(9px);
+  top: 31%;
+  left: 45%;
+  -webkit-transform: translateZ(490px);
+          transform: translateZ(490px);
 }
 
 section #galaxy #stars .star:nth-child(308) {
-  width: 5px;
-  height: 5px;
-  top: 63%;
-  left: 55%;
-  -webkit-transform: translateZ(108px);
-          transform: translateZ(108px);
+  width: 3px;
+  height: 3px;
+  top: 33%;
+  left: 83%;
+  -webkit-transform: translateZ(489px);
+          transform: translateZ(489px);
 }
 
 section #galaxy #stars .star:nth-child(309) {
-  width: 4px;
-  height: 4px;
-  top: 17%;
-  left: 55%;
-  -webkit-transform: translateZ(349px);
-          transform: translateZ(349px);
+  width: 6px;
+  height: 6px;
+  top: 76%;
+  left: 40%;
+  -webkit-transform: translateZ(314px);
+          transform: translateZ(314px);
 }
 
 section #galaxy #stars .star:nth-child(310) {
-  width: 4px;
-  height: 4px;
-  top: 82%;
-  left: 73%;
-  -webkit-transform: translateZ(67px);
-          transform: translateZ(67px);
+  width: 6px;
+  height: 6px;
+  top: 87%;
+  left: 56%;
+  -webkit-transform: translateZ(256px);
+          transform: translateZ(256px);
 }
 
 section #galaxy #stars .star:nth-child(311) {
-  width: 5px;
-  height: 5px;
-  top: 27%;
-  left: 46%;
-  -webkit-transform: translateZ(454px);
-          transform: translateZ(454px);
+  width: 2px;
+  height: 2px;
+  top: 62%;
+  left: 22%;
+  -webkit-transform: translateZ(249px);
+          transform: translateZ(249px);
 }
 
 section #galaxy #stars .star:nth-child(312) {
-  width: 3px;
-  height: 3px;
-  top: 37%;
-  left: 39%;
-  -webkit-transform: translateZ(215px);
-          transform: translateZ(215px);
-}
-
-section #galaxy #stars .star:nth-child(313) {
-  width: 2px;
-  height: 2px;
-  top: 9%;
-  left: 17%;
-  -webkit-transform: translateZ(50px);
-          transform: translateZ(50px);
-}
-
-section #galaxy #stars .star:nth-child(314) {
-  width: 2px;
-  height: 2px;
-  top: 26%;
-  left: 82%;
-  -webkit-transform: translateZ(133px);
-          transform: translateZ(133px);
-}
-
-section #galaxy #stars .star:nth-child(315) {
-  width: 2px;
-  height: 2px;
-  top: 41%;
-  left: 9%;
-  -webkit-transform: translateZ(394px);
-          transform: translateZ(394px);
-}
-
-section #galaxy #stars .star:nth-child(316) {
-  width: 3px;
-  height: 3px;
-  top: 92%;
-  left: 34%;
-  -webkit-transform: translateZ(28px);
-          transform: translateZ(28px);
-}
-
-section #galaxy #stars .star:nth-child(317) {
-  width: 2px;
-  height: 2px;
-  top: 17%;
-  left: 31%;
-  -webkit-transform: translateZ(439px);
-          transform: translateZ(439px);
-}
-
-section #galaxy #stars .star:nth-child(318) {
   width: 6px;
   height: 6px;
   top: 39%;
-  left: 58%;
-  -webkit-transform: translateZ(432px);
-          transform: translateZ(432px);
+  left: 43%;
+  -webkit-transform: translateZ(156px);
+          transform: translateZ(156px);
+}
+
+section #galaxy #stars .star:nth-child(313) {
+  width: 6px;
+  height: 6px;
+  top: 82%;
+  left: 42%;
+  -webkit-transform: translateZ(68px);
+          transform: translateZ(68px);
+}
+
+section #galaxy #stars .star:nth-child(314) {
+  width: 5px;
+  height: 5px;
+  top: 34%;
+  left: 68%;
+  -webkit-transform: translateZ(26px);
+          transform: translateZ(26px);
+}
+
+section #galaxy #stars .star:nth-child(315) {
+  width: 5px;
+  height: 5px;
+  top: 30%;
+  left: 54%;
+  -webkit-transform: translateZ(90px);
+          transform: translateZ(90px);
+}
+
+section #galaxy #stars .star:nth-child(316) {
+  width: 4px;
+  height: 4px;
+  top: 40%;
+  left: 65%;
+  -webkit-transform: translateZ(43px);
+          transform: translateZ(43px);
+}
+
+section #galaxy #stars .star:nth-child(317) {
+  width: 6px;
+  height: 6px;
+  top: 23%;
+  left: 26%;
+  -webkit-transform: translateZ(448px);
+          transform: translateZ(448px);
+}
+
+section #galaxy #stars .star:nth-child(318) {
+  width: 2px;
+  height: 2px;
+  top: 46%;
+  left: 88%;
+  -webkit-transform: translateZ(300px);
+          transform: translateZ(300px);
 }
 
 section #galaxy #stars .star:nth-child(319) {
-  width: 5px;
-  height: 5px;
-  top: 66%;
-  left: 22%;
-  -webkit-transform: translateZ(125px);
-          transform: translateZ(125px);
+  width: 3px;
+  height: 3px;
+  top: 30%;
+  left: 48%;
+  -webkit-transform: translateZ(191px);
+          transform: translateZ(191px);
 }
 
 section #galaxy #stars .star:nth-child(320) {
-  width: 5px;
-  height: 5px;
-  top: 2%;
-  left: 4%;
-  -webkit-transform: translateZ(343px);
-          transform: translateZ(343px);
+  width: 6px;
+  height: 6px;
+  top: 12%;
+  left: 13%;
+  -webkit-transform: translateZ(184px);
+          transform: translateZ(184px);
 }
 
 section #galaxy #stars .star:nth-child(321) {
-  width: 5px;
-  height: 5px;
-  top: 53%;
-  left: 61%;
-  -webkit-transform: translateZ(309px);
-          transform: translateZ(309px);
+  width: 4px;
+  height: 4px;
+  top: 41%;
+  left: 59%;
+  -webkit-transform: translateZ(251px);
+          transform: translateZ(251px);
 }
 
 section #galaxy #stars .star:nth-child(322) {
-  width: 6px;
-  height: 6px;
-  top: 54%;
-  left: 59%;
-  -webkit-transform: translateZ(358px);
-          transform: translateZ(358px);
+  width: 5px;
+  height: 5px;
+  top: 89%;
+  left: 19%;
+  -webkit-transform: translateZ(64px);
+          transform: translateZ(64px);
 }
 
 section #galaxy #stars .star:nth-child(323) {
-  width: 3px;
-  height: 3px;
-  top: 41%;
-  left: 22%;
-  -webkit-transform: translateZ(275px);
-          transform: translateZ(275px);
+  width: 5px;
+  height: 5px;
+  top: 72%;
+  left: 44%;
+  -webkit-transform: translateZ(75px);
+          transform: translateZ(75px);
 }
 
 section #galaxy #stars .star:nth-child(324) {
-  width: 6px;
-  height: 6px;
-  top: 74%;
-  left: 56%;
-  -webkit-transform: translateZ(132px);
-          transform: translateZ(132px);
+  width: 4px;
+  height: 4px;
+  top: 14%;
+  left: 91%;
+  -webkit-transform: translateZ(299px);
+          transform: translateZ(299px);
 }
 
 section #galaxy #stars .star:nth-child(325) {
-  width: 3px;
-  height: 3px;
-  top: 53%;
-  left: 11%;
-  -webkit-transform: translateZ(185px);
-          transform: translateZ(185px);
+  width: 4px;
+  height: 4px;
+  top: 43%;
+  left: 18%;
+  -webkit-transform: translateZ(176px);
+          transform: translateZ(176px);
 }
 
 section #galaxy #stars .star:nth-child(326) {
   width: 2px;
   height: 2px;
-  top: 83%;
-  left: 2%;
-  -webkit-transform: translateZ(329px);
-          transform: translateZ(329px);
+  top: 39%;
+  left: 70%;
+  -webkit-transform: translateZ(210px);
+          transform: translateZ(210px);
 }
 
 section #galaxy #stars .star:nth-child(327) {
-  width: 4px;
-  height: 4px;
-  top: 39%;
-  left: 47%;
-  -webkit-transform: translateZ(49px);
-          transform: translateZ(49px);
+  width: 6px;
+  height: 6px;
+  top: 2%;
+  left: 40%;
+  -webkit-transform: translateZ(43px);
+          transform: translateZ(43px);
 }
 
 section #galaxy #stars .star:nth-child(328) {
-  width: 5px;
-  height: 5px;
-  top: 21%;
-  left: 2%;
-  -webkit-transform: translateZ(388px);
-          transform: translateZ(388px);
+  width: 2px;
+  height: 2px;
+  top: 73%;
+  left: 76%;
+  -webkit-transform: translateZ(441px);
+          transform: translateZ(441px);
 }
 
 section #galaxy #stars .star:nth-child(329) {
-  width: 3px;
-  height: 3px;
-  top: 81%;
-  left: 79%;
-  -webkit-transform: translateZ(498px);
-          transform: translateZ(498px);
+  width: 6px;
+  height: 6px;
+  top: 54%;
+  left: 64%;
+  -webkit-transform: translateZ(246px);
+          transform: translateZ(246px);
 }
 
 section #galaxy #stars .star:nth-child(330) {
-  width: 5px;
-  height: 5px;
-  top: 55%;
-  left: 53%;
-  -webkit-transform: translateZ(418px);
-          transform: translateZ(418px);
+  width: 3px;
+  height: 3px;
+  top: 67%;
+  left: 38%;
+  -webkit-transform: translateZ(408px);
+          transform: translateZ(408px);
 }
 
 section #galaxy #stars .star:nth-child(331) {
   width: 4px;
   height: 4px;
-  top: 53%;
-  left: 32%;
-  -webkit-transform: translateZ(149px);
-          transform: translateZ(149px);
+  top: 44%;
+  left: 79%;
+  -webkit-transform: translateZ(13px);
+          transform: translateZ(13px);
 }
 
 section #galaxy #stars .star:nth-child(332) {
-  width: 5px;
-  height: 5px;
-  top: 61%;
-  left: 68%;
-  -webkit-transform: translateZ(235px);
-          transform: translateZ(235px);
+  width: 3px;
+  height: 3px;
+  top: 12%;
+  left: 20%;
+  -webkit-transform: translateZ(434px);
+          transform: translateZ(434px);
 }
 
 section #galaxy #stars .star:nth-child(333) {
-  width: 2px;
-  height: 2px;
-  top: 19%;
-  left: 31%;
-  -webkit-transform: translateZ(78px);
-          transform: translateZ(78px);
+  width: 3px;
+  height: 3px;
+  top: 22%;
+  left: 53%;
+  -webkit-transform: translateZ(304px);
+          transform: translateZ(304px);
 }
 
 section #galaxy #stars .star:nth-child(334) {
-  width: 6px;
-  height: 6px;
-  top: 93%;
+  width: 3px;
+  height: 3px;
+  top: 55%;
   left: 10%;
-  -webkit-transform: translateZ(119px);
-          transform: translateZ(119px);
+  -webkit-transform: translateZ(254px);
+          transform: translateZ(254px);
 }
 
 section #galaxy #stars .star:nth-child(335) {
-  width: 4px;
-  height: 4px;
-  top: 92%;
-  left: 37%;
-  -webkit-transform: translateZ(497px);
-          transform: translateZ(497px);
+  width: 6px;
+  height: 6px;
+  top: 35%;
+  left: 56%;
+  -webkit-transform: translateZ(369px);
+          transform: translateZ(369px);
 }
 
 section #galaxy #stars .star:nth-child(336) {
   width: 2px;
   height: 2px;
-  top: 81%;
-  left: 50%;
-  -webkit-transform: translateZ(106px);
-          transform: translateZ(106px);
+  top: 88%;
+  left: 68%;
+  -webkit-transform: translateZ(292px);
+          transform: translateZ(292px);
 }
 
 section #galaxy #stars .star:nth-child(337) {
-  width: 3px;
-  height: 3px;
-  top: 41%;
-  left: 3%;
-  -webkit-transform: translateZ(286px);
-          transform: translateZ(286px);
+  width: 5px;
+  height: 5px;
+  top: 3%;
+  left: 41%;
+  -webkit-transform: translateZ(472px);
+          transform: translateZ(472px);
 }
 
 section #galaxy #stars .star:nth-child(338) {
-  width: 3px;
-  height: 3px;
-  top: 3%;
-  left: 73%;
-  -webkit-transform: translateZ(131px);
-          transform: translateZ(131px);
+  width: 6px;
+  height: 6px;
+  top: 66%;
+  left: 27%;
+  -webkit-transform: translateZ(145px);
+          transform: translateZ(145px);
 }
 
 section #galaxy #stars .star:nth-child(339) {
-  width: 2px;
-  height: 2px;
-  top: 65%;
-  left: 75%;
-  -webkit-transform: translateZ(152px);
-          transform: translateZ(152px);
+  width: 6px;
+  height: 6px;
+  top: 36%;
+  left: 95%;
+  -webkit-transform: translateZ(104px);
+          transform: translateZ(104px);
 }
 
 section #galaxy #stars .star:nth-child(340) {
-  width: 2px;
-  height: 2px;
-  top: 93%;
-  left: 83%;
-  -webkit-transform: translateZ(500px);
-          transform: translateZ(500px);
+  width: 6px;
+  height: 6px;
+  top: 73%;
+  left: 12%;
+  -webkit-transform: translateZ(108px);
+          transform: translateZ(108px);
 }
 
 section #galaxy #stars .star:nth-child(341) {
-  width: 6px;
-  height: 6px;
-  top: 17%;
-  left: 88%;
-  -webkit-transform: translateZ(115px);
-          transform: translateZ(115px);
+  width: 5px;
+  height: 5px;
+  top: 73%;
+  left: 30%;
+  -webkit-transform: translateZ(402px);
+          transform: translateZ(402px);
 }
 
 section #galaxy #stars .star:nth-child(342) {
   width: 2px;
   height: 2px;
-  top: 71%;
-  left: 31%;
-  -webkit-transform: translateZ(408px);
-          transform: translateZ(408px);
+  top: 62%;
+  left: 62%;
+  -webkit-transform: translateZ(349px);
+          transform: translateZ(349px);
 }
 
 section #galaxy #stars .star:nth-child(343) {
   width: 2px;
   height: 2px;
-  top: 71%;
-  left: 26%;
-  -webkit-transform: translateZ(391px);
-          transform: translateZ(391px);
+  top: 53%;
+  left: 51%;
+  -webkit-transform: translateZ(439px);
+          transform: translateZ(439px);
 }
 
 section #galaxy #stars .star:nth-child(344) {
-  width: 3px;
-  height: 3px;
-  top: 79%;
-  left: 52%;
-  -webkit-transform: translateZ(412px);
-          transform: translateZ(412px);
+  width: 4px;
+  height: 4px;
+  top: 35%;
+  left: 12%;
+  -webkit-transform: translateZ(245px);
+          transform: translateZ(245px);
 }
 
 section #galaxy #stars .star:nth-child(345) {
-  width: 4px;
-  height: 4px;
-  top: 94%;
-  left: 81%;
-  -webkit-transform: translateZ(56px);
-          transform: translateZ(56px);
+  width: 5px;
+  height: 5px;
+  top: 62%;
+  left: 31%;
+  -webkit-transform: translateZ(433px);
+          transform: translateZ(433px);
 }
 
 section #galaxy #stars .star:nth-child(346) {
-  width: 5px;
-  height: 5px;
-  top: 41%;
-  left: 70%;
-  -webkit-transform: translateZ(42px);
-          transform: translateZ(42px);
+  width: 4px;
+  height: 4px;
+  top: 6%;
+  left: 81%;
+  -webkit-transform: translateZ(284px);
+          transform: translateZ(284px);
 }
 
 section #galaxy #stars .star:nth-child(347) {
-  width: 4px;
-  height: 4px;
-  top: 53%;
-  left: 35%;
-  -webkit-transform: translateZ(140px);
-          transform: translateZ(140px);
+  width: 6px;
+  height: 6px;
+  top: 76%;
+  left: 29%;
+  -webkit-transform: translateZ(326px);
+          transform: translateZ(326px);
 }
 
 section #galaxy #stars .star:nth-child(348) {
-  width: 4px;
-  height: 4px;
-  top: 47%;
-  left: 39%;
-  -webkit-transform: translateZ(192px);
-          transform: translateZ(192px);
+  width: 2px;
+  height: 2px;
+  top: 8%;
+  left: 69%;
+  -webkit-transform: translateZ(374px);
+          transform: translateZ(374px);
 }
 
 section #galaxy #stars .star:nth-child(349) {
-  width: 5px;
-  height: 5px;
-  top: 33%;
-  left: 32%;
-  -webkit-transform: translateZ(4px);
-          transform: translateZ(4px);
+  width: 6px;
+  height: 6px;
+  top: 22%;
+  left: 72%;
+  -webkit-transform: translateZ(84px);
+          transform: translateZ(84px);
 }
 
 section #galaxy #stars .star:nth-child(350) {
-  width: 3px;
-  height: 3px;
-  top: 10%;
-  left: 20%;
-  -webkit-transform: translateZ(203px);
-          transform: translateZ(203px);
+  width: 5px;
+  height: 5px;
+  top: 16%;
+  left: 47%;
+  -webkit-transform: translateZ(362px);
+          transform: translateZ(362px);
 }
 
 section #galaxy #stars .star:nth-child(351) {
-  width: 3px;
-  height: 3px;
-  top: 84%;
-  left: 27%;
-  -webkit-transform: translateZ(266px);
-          transform: translateZ(266px);
+  width: 4px;
+  height: 4px;
+  top: 14%;
+  left: 10%;
+  -webkit-transform: translateZ(15px);
+          transform: translateZ(15px);
 }
 
 section #galaxy #stars .star:nth-child(352) {
-  width: 4px;
-  height: 4px;
-  top: 8%;
-  left: 54%;
-  -webkit-transform: translateZ(240px);
-          transform: translateZ(240px);
+  width: 2px;
+  height: 2px;
+  top: 68%;
+  left: 6%;
+  -webkit-transform: translateZ(458px);
+          transform: translateZ(458px);
 }
 
 section #galaxy #stars .star:nth-child(353) {
   width: 5px;
   height: 5px;
-  top: 20%;
-  left: 23%;
-  -webkit-transform: translateZ(190px);
-          transform: translateZ(190px);
+  top: 92%;
+  left: 49%;
+  -webkit-transform: translateZ(238px);
+          transform: translateZ(238px);
 }
 
 section #galaxy #stars .star:nth-child(354) {
-  width: 2px;
-  height: 2px;
-  top: 16%;
-  left: 62%;
-  -webkit-transform: translateZ(394px);
-          transform: translateZ(394px);
+  width: 4px;
+  height: 4px;
+  top: 45%;
+  left: 43%;
+  -webkit-transform: translateZ(177px);
+          transform: translateZ(177px);
 }
 
 section #galaxy #stars .star:nth-child(355) {
   width: 5px;
   height: 5px;
-  top: 46%;
-  left: 44%;
-  -webkit-transform: translateZ(128px);
-          transform: translateZ(128px);
+  top: 40%;
+  left: 16%;
+  -webkit-transform: translateZ(328px);
+          transform: translateZ(328px);
 }
 
 section #galaxy #stars .star:nth-child(356) {
-  width: 5px;
-  height: 5px;
-  top: 12%;
-  left: 88%;
-  -webkit-transform: translateZ(178px);
-          transform: translateZ(178px);
+  width: 3px;
+  height: 3px;
+  top: 92%;
+  left: 22%;
+  -webkit-transform: translateZ(22px);
+          transform: translateZ(22px);
 }
 
 section #galaxy #stars .star:nth-child(357) {
-  width: 6px;
-  height: 6px;
-  top: 50%;
-  left: 82%;
-  -webkit-transform: translateZ(7px);
-          transform: translateZ(7px);
+  width: 3px;
+  height: 3px;
+  top: 17%;
+  left: 29%;
+  -webkit-transform: translateZ(86px);
+          transform: translateZ(86px);
 }
 
 section #galaxy #stars .star:nth-child(358) {
-  width: 3px;
-  height: 3px;
+  width: 4px;
+  height: 4px;
   top: 51%;
-  left: 35%;
-  -webkit-transform: translateZ(204px);
-          transform: translateZ(204px);
+  left: 39%;
+  -webkit-transform: translateZ(245px);
+          transform: translateZ(245px);
 }
 
 section #galaxy #stars .star:nth-child(359) {
   width: 4px;
   height: 4px;
-  top: 2%;
-  left: 85%;
-  -webkit-transform: translateZ(96px);
-          transform: translateZ(96px);
+  top: 37%;
+  left: 48%;
+  -webkit-transform: translateZ(469px);
+          transform: translateZ(469px);
 }
 
 section #galaxy #stars .star:nth-child(360) {
-  width: 5px;
-  height: 5px;
-  top: 11%;
-  left: 24%;
-  -webkit-transform: translateZ(154px);
-          transform: translateZ(154px);
+  width: 6px;
+  height: 6px;
+  top: 74%;
+  left: 78%;
+  -webkit-transform: translateZ(94px);
+          transform: translateZ(94px);
 }
 
 section #galaxy #stars .star:nth-child(361) {
-  width: 5px;
-  height: 5px;
-  top: 69%;
-  left: 77%;
-  -webkit-transform: translateZ(221px);
-          transform: translateZ(221px);
+  width: 4px;
+  height: 4px;
+  top: 93%;
+  left: 6%;
+  -webkit-transform: translateZ(490px);
+          transform: translateZ(490px);
 }
 
 section #galaxy #stars .star:nth-child(362) {
   width: 4px;
   height: 4px;
-  top: 21%;
-  left: 85%;
-  -webkit-transform: translateZ(112px);
-          transform: translateZ(112px);
+  top: 49%;
+  left: 81%;
+  -webkit-transform: translateZ(77px);
+          transform: translateZ(77px);
 }
 
 section #galaxy #stars .star:nth-child(363) {
   width: 5px;
   height: 5px;
-  top: 70%;
-  left: 70%;
-  -webkit-transform: translateZ(145px);
-          transform: translateZ(145px);
+  top: 80%;
+  left: 71%;
+  -webkit-transform: translateZ(436px);
+          transform: translateZ(436px);
 }
 
 section #galaxy #stars .star:nth-child(364) {
-  width: 6px;
-  height: 6px;
-  top: 23%;
-  left: 23%;
-  -webkit-transform: translateZ(282px);
-          transform: translateZ(282px);
-}
-
-section #galaxy #stars .star:nth-child(365) {
-  width: 4px;
-  height: 4px;
-  top: 43%;
-  left: 73%;
-  -webkit-transform: translateZ(267px);
-          transform: translateZ(267px);
-}
-
-section #galaxy #stars .star:nth-child(366) {
-  width: 3px;
-  height: 3px;
-  top: 73%;
-  left: 78%;
-  -webkit-transform: translateZ(314px);
-          transform: translateZ(314px);
-}
-
-section #galaxy #stars .star:nth-child(367) {
-  width: 6px;
-  height: 6px;
-  top: 62%;
-  left: 14%;
-  -webkit-transform: translateZ(210px);
-          transform: translateZ(210px);
-}
-
-section #galaxy #stars .star:nth-child(368) {
-  width: 6px;
-  height: 6px;
-  top: 42%;
-  left: 49%;
-  -webkit-transform: translateZ(385px);
-          transform: translateZ(385px);
-}
-
-section #galaxy #stars .star:nth-child(369) {
-  width: 4px;
-  height: 4px;
-  top: 68%;
-  left: 6%;
+  width: 2px;
+  height: 2px;
+  top: 12%;
+  left: 11%;
   -webkit-transform: translateZ(248px);
           transform: translateZ(248px);
 }
 
-section #galaxy #stars .star:nth-child(370) {
+section #galaxy #stars .star:nth-child(365) {
+  width: 3px;
+  height: 3px;
+  top: 42%;
+  left: 31%;
+  -webkit-transform: translateZ(59px);
+          transform: translateZ(59px);
+}
+
+section #galaxy #stars .star:nth-child(366) {
+  width: 5px;
+  height: 5px;
+  top: 86%;
+  left: 46%;
+  -webkit-transform: translateZ(372px);
+          transform: translateZ(372px);
+}
+
+section #galaxy #stars .star:nth-child(367) {
   width: 2px;
   height: 2px;
-  top: 2%;
-  left: 53%;
-  -webkit-transform: translateZ(238px);
-          transform: translateZ(238px);
+  top: 73%;
+  left: 83%;
+  -webkit-transform: translateZ(296px);
+          transform: translateZ(296px);
+}
+
+section #galaxy #stars .star:nth-child(368) {
+  width: 2px;
+  height: 2px;
+  top: 24%;
+  left: 65%;
+  -webkit-transform: translateZ(102px);
+          transform: translateZ(102px);
+}
+
+section #galaxy #stars .star:nth-child(369) {
+  width: 2px;
+  height: 2px;
+  top: 45%;
+  left: 12%;
+  -webkit-transform: translateZ(325px);
+          transform: translateZ(325px);
+}
+
+section #galaxy #stars .star:nth-child(370) {
+  width: 5px;
+  height: 5px;
+  top: 83%;
+  left: 4%;
+  -webkit-transform: translateZ(347px);
+          transform: translateZ(347px);
 }
 
 section #galaxy #stars .star:nth-child(371) {
-  width: 3px;
-  height: 3px;
-  top: 61%;
-  left: 65%;
-  -webkit-transform: translateZ(292px);
-          transform: translateZ(292px);
-}
-
-section #galaxy #stars .star:nth-child(372) {
-  width: 6px;
-  height: 6px;
-  top: 95%;
-  left: 32%;
+  width: 4px;
+  height: 4px;
+  top: 79%;
+  left: 38%;
   -webkit-transform: translateZ(97px);
           transform: translateZ(97px);
 }
 
+section #galaxy #stars .star:nth-child(372) {
+  width: 2px;
+  height: 2px;
+  top: 25%;
+  left: 80%;
+  -webkit-transform: translateZ(220px);
+          transform: translateZ(220px);
+}
+
 section #galaxy #stars .star:nth-child(373) {
-  width: 6px;
-  height: 6px;
-  top: 61%;
-  left: 52%;
-  -webkit-transform: translateZ(169px);
-          transform: translateZ(169px);
+  width: 2px;
+  height: 2px;
+  top: 33%;
+  left: 15%;
+  -webkit-transform: translateZ(31px);
+          transform: translateZ(31px);
 }
 
 section #galaxy #stars .star:nth-child(374) {
-  width: 5px;
-  height: 5px;
-  top: 62%;
-  left: 19%;
-  -webkit-transform: translateZ(82px);
-          transform: translateZ(82px);
+  width: 6px;
+  height: 6px;
+  top: 86%;
+  left: 16%;
+  -webkit-transform: translateZ(387px);
+          transform: translateZ(387px);
 }
 
 section #galaxy #stars .star:nth-child(375) {
-  width: 3px;
-  height: 3px;
-  top: 32%;
-  left: 82%;
-  -webkit-transform: translateZ(96px);
-          transform: translateZ(96px);
+  width: 6px;
+  height: 6px;
+  top: 21%;
+  left: 9%;
+  -webkit-transform: translateZ(126px);
+          transform: translateZ(126px);
 }
 
 section #galaxy #stars .star:nth-child(376) {
-  width: 3px;
-  height: 3px;
-  top: 44%;
-  left: 86%;
-  -webkit-transform: translateZ(96px);
-          transform: translateZ(96px);
+  width: 4px;
+  height: 4px;
+  top: 57%;
+  left: 15%;
+  -webkit-transform: translateZ(462px);
+          transform: translateZ(462px);
 }
 
 section #galaxy #stars .star:nth-child(377) {
-  width: 6px;
-  height: 6px;
-  top: 69%;
-  left: 23%;
-  -webkit-transform: translateZ(407px);
-          transform: translateZ(407px);
+  width: 3px;
+  height: 3px;
+  top: 68%;
+  left: 55%;
+  -webkit-transform: translateZ(173px);
+          transform: translateZ(173px);
 }
 
 section #galaxy #stars .star:nth-child(378) {
-  width: 5px;
-  height: 5px;
-  top: 31%;
-  left: 73%;
-  -webkit-transform: translateZ(75px);
-          transform: translateZ(75px);
+  width: 3px;
+  height: 3px;
+  top: 47%;
+  left: 4%;
+  -webkit-transform: translateZ(410px);
+          transform: translateZ(410px);
 }
 
 section #galaxy #stars .star:nth-child(379) {
   width: 4px;
   height: 4px;
-  top: 77%;
-  left: 83%;
-  -webkit-transform: translateZ(232px);
-          transform: translateZ(232px);
+  top: 66%;
+  left: 14%;
+  -webkit-transform: translateZ(293px);
+          transform: translateZ(293px);
 }
 
 section #galaxy #stars .star:nth-child(380) {
   width: 2px;
   height: 2px;
-  top: 93%;
-  left: 4%;
-  -webkit-transform: translateZ(147px);
-          transform: translateZ(147px);
+  top: 24%;
+  left: 6%;
+  -webkit-transform: translateZ(371px);
+          transform: translateZ(371px);
 }
 
 section #galaxy #stars .star:nth-child(381) {
-  width: 4px;
-  height: 4px;
-  top: 7%;
-  left: 81%;
-  -webkit-transform: translateZ(423px);
-          transform: translateZ(423px);
+  width: 6px;
+  height: 6px;
+  top: 66%;
+  left: 34%;
+  -webkit-transform: translateZ(478px);
+          transform: translateZ(478px);
 }
 
 section #galaxy #stars .star:nth-child(382) {
-  width: 5px;
-  height: 5px;
-  top: 26%;
-  left: 60%;
-  -webkit-transform: translateZ(348px);
-          transform: translateZ(348px);
+  width: 6px;
+  height: 6px;
+  top: 58%;
+  left: 74%;
+  -webkit-transform: translateZ(261px);
+          transform: translateZ(261px);
 }
 
 section #galaxy #stars .star:nth-child(383) {
-  width: 2px;
-  height: 2px;
-  top: 58%;
-  left: 73%;
-  -webkit-transform: translateZ(253px);
-          transform: translateZ(253px);
+  width: 3px;
+  height: 3px;
+  top: 77%;
+  left: 76%;
+  -webkit-transform: translateZ(394px);
+          transform: translateZ(394px);
 }
 
 section #galaxy #stars .star:nth-child(384) {
-  width: 5px;
-  height: 5px;
-  top: 42%;
-  left: 76%;
-  -webkit-transform: translateZ(104px);
-          transform: translateZ(104px);
+  width: 6px;
+  height: 6px;
+  top: 23%;
+  left: 75%;
+  -webkit-transform: translateZ(116px);
+          transform: translateZ(116px);
 }
 
 section #galaxy #stars .star:nth-child(385) {
-  width: 6px;
-  height: 6px;
-  top: 82%;
-  left: 32%;
-  -webkit-transform: translateZ(70px);
-          transform: translateZ(70px);
+  width: 4px;
+  height: 4px;
+  top: 80%;
+  left: 70%;
+  -webkit-transform: translateZ(281px);
+          transform: translateZ(281px);
 }
 
 section #galaxy #stars .star:nth-child(386) {
-  width: 4px;
-  height: 4px;
-  top: 18%;
-  left: 74%;
-  -webkit-transform: translateZ(141px);
-          transform: translateZ(141px);
+  width: 2px;
+  height: 2px;
+  top: 48%;
+  left: 32%;
+  -webkit-transform: translateZ(439px);
+          transform: translateZ(439px);
 }
 
 section #galaxy #stars .star:nth-child(387) {
-  width: 3px;
-  height: 3px;
-  top: 28%;
-  left: 62%;
-  -webkit-transform: translateZ(234px);
-          transform: translateZ(234px);
+  width: 6px;
+  height: 6px;
+  top: 59%;
+  left: 53%;
+  -webkit-transform: translateZ(178px);
+          transform: translateZ(178px);
 }
 
 section #galaxy #stars .star:nth-child(388) {
   width: 5px;
   height: 5px;
-  top: 19%;
-  left: 43%;
-  -webkit-transform: translateZ(151px);
-          transform: translateZ(151px);
+  top: 33%;
+  left: 79%;
+  -webkit-transform: translateZ(478px);
+          transform: translateZ(478px);
 }
 
 section #galaxy #stars .star:nth-child(389) {
-  width: 5px;
-  height: 5px;
-  top: 68%;
-  left: 22%;
-  -webkit-transform: translateZ(29px);
-          transform: translateZ(29px);
+  width: 6px;
+  height: 6px;
+  top: 18%;
+  left: 81%;
+  -webkit-transform: translateZ(374px);
+          transform: translateZ(374px);
 }
 
 section #galaxy #stars .star:nth-child(390) {
-  width: 4px;
-  height: 4px;
-  top: 1%;
-  left: 25%;
-  -webkit-transform: translateZ(222px);
-          transform: translateZ(222px);
+  width: 6px;
+  height: 6px;
+  top: 35%;
+  left: 63%;
+  -webkit-transform: translateZ(414px);
+          transform: translateZ(414px);
 }
 
 section #galaxy #stars .star:nth-child(391) {
-  width: 5px;
-  height: 5px;
-  top: 57%;
-  left: 56%;
-  -webkit-transform: translateZ(138px);
-          transform: translateZ(138px);
+  width: 2px;
+  height: 2px;
+  top: 5%;
+  left: 66%;
+  -webkit-transform: translateZ(10px);
+          transform: translateZ(10px);
 }
 
 section #galaxy #stars .star:nth-child(392) {
   width: 3px;
   height: 3px;
-  top: 50%;
-  left: 30%;
-  -webkit-transform: translateZ(55px);
-          transform: translateZ(55px);
+  top: 57%;
+  left: 44%;
+  -webkit-transform: translateZ(203px);
+          transform: translateZ(203px);
 }
 
 section #galaxy #stars .star:nth-child(393) {
-  width: 4px;
-  height: 4px;
-  top: 15%;
-  left: 36%;
-  -webkit-transform: translateZ(94px);
-          transform: translateZ(94px);
+  width: 5px;
+  height: 5px;
+  top: 4%;
+  left: 46%;
+  -webkit-transform: translateZ(62px);
+          transform: translateZ(62px);
 }
 
 section #galaxy #stars .star:nth-child(394) {
-  width: 4px;
-  height: 4px;
-  top: 59%;
-  left: 77%;
-  -webkit-transform: translateZ(416px);
-          transform: translateZ(416px);
+  width: 3px;
+  height: 3px;
+  top: 38%;
+  left: 37%;
+  -webkit-transform: translateZ(450px);
+          transform: translateZ(450px);
 }
 
 section #galaxy #stars .star:nth-child(395) {
-  width: 6px;
-  height: 6px;
-  top: 89%;
-  left: 32%;
-  -webkit-transform: translateZ(375px);
-          transform: translateZ(375px);
+  width: 5px;
+  height: 5px;
+  top: 27%;
+  left: 31%;
+  -webkit-transform: translateZ(119px);
+          transform: translateZ(119px);
 }
 
 section #galaxy #stars .star:nth-child(396) {
-  width: 5px;
-  height: 5px;
-  top: 67%;
-  left: 10%;
-  -webkit-transform: translateZ(382px);
-          transform: translateZ(382px);
+  width: 6px;
+  height: 6px;
+  top: 16%;
+  left: 7%;
+  -webkit-transform: translateZ(331px);
+          transform: translateZ(331px);
 }
 
 section #galaxy #stars .star:nth-child(397) {
-  width: 2px;
-  height: 2px;
-  top: 57%;
-  left: 86%;
-  -webkit-transform: translateZ(413px);
-          transform: translateZ(413px);
+  width: 6px;
+  height: 6px;
+  top: 44%;
+  left: 88%;
+  -webkit-transform: translateZ(129px);
+          transform: translateZ(129px);
 }
 
 section #galaxy #stars .star:nth-child(398) {
-  width: 3px;
-  height: 3px;
-  top: 75%;
-  left: 55%;
-  -webkit-transform: translateZ(189px);
-          transform: translateZ(189px);
+  width: 6px;
+  height: 6px;
+  top: 90%;
+  left: 13%;
+  -webkit-transform: translateZ(464px);
+          transform: translateZ(464px);
 }
 
 section #galaxy #stars .star:nth-child(399) {
   width: 5px;
   height: 5px;
-  top: 6%;
-  left: 74%;
-  -webkit-transform: translateZ(114px);
-          transform: translateZ(114px);
+  top: 18%;
+  left: 80%;
+  -webkit-transform: translateZ(43px);
+          transform: translateZ(43px);
 }
 
 section #galaxy #stars .star:nth-child(400) {
-  width: 5px;
-  height: 5px;
-  top: 7%;
-  left: 40%;
-  -webkit-transform: translateZ(237px);
-          transform: translateZ(237px);
+  width: 6px;
+  height: 6px;
+  top: 9%;
+  left: 63%;
+  -webkit-transform: translateZ(141px);
+          transform: translateZ(141px);
 }
 
 section #galaxy #stars .star:nth-child(401) {
-  width: 6px;
-  height: 6px;
-  top: 44%;
-  left: 22%;
-  -webkit-transform: translateZ(108px);
-          transform: translateZ(108px);
+  width: 5px;
+  height: 5px;
+  top: 43%;
+  left: 93%;
+  -webkit-transform: translateZ(404px);
+          transform: translateZ(404px);
 }
 
 section #galaxy #stars .star:nth-child(402) {
-  width: 2px;
-  height: 2px;
-  top: 66%;
-  left: 34%;
-  -webkit-transform: translateZ(428px);
-          transform: translateZ(428px);
+  width: 3px;
+  height: 3px;
+  top: 65%;
+  left: 65%;
+  -webkit-transform: translateZ(209px);
+          transform: translateZ(209px);
 }
 
 section #galaxy #stars .star:nth-child(403) {
-  width: 2px;
-  height: 2px;
-  top: 68%;
-  left: 73%;
-  -webkit-transform: translateZ(420px);
-          transform: translateZ(420px);
+  width: 5px;
+  height: 5px;
+  top: 94%;
+  left: 42%;
+  -webkit-transform: translateZ(416px);
+          transform: translateZ(416px);
 }
 
 section #galaxy #stars .star:nth-child(404) {
   width: 4px;
   height: 4px;
-  top: 58%;
-  left: 66%;
-  -webkit-transform: translateZ(47px);
-          transform: translateZ(47px);
+  top: 81%;
+  left: 34%;
+  -webkit-transform: translateZ(309px);
+          transform: translateZ(309px);
 }
 
 section #galaxy #stars .star:nth-child(405) {
   width: 3px;
   height: 3px;
-  top: 64%;
-  left: 2%;
-  -webkit-transform: translateZ(375px);
-          transform: translateZ(375px);
+  top: 60%;
+  left: 90%;
+  -webkit-transform: translateZ(484px);
+          transform: translateZ(484px);
 }
 
 section #galaxy #stars .star:nth-child(406) {
-  width: 6px;
-  height: 6px;
-  top: 23%;
-  left: 53%;
-  -webkit-transform: translateZ(224px);
-          transform: translateZ(224px);
+  width: 2px;
+  height: 2px;
+  top: 86%;
+  left: 30%;
+  -webkit-transform: translateZ(428px);
+          transform: translateZ(428px);
 }
 
 section #galaxy #stars .star:nth-child(407) {
-  width: 4px;
-  height: 4px;
-  top: 91%;
-  left: 34%;
-  -webkit-transform: translateZ(73px);
-          transform: translateZ(73px);
+  width: 2px;
+  height: 2px;
+  top: 3%;
+  left: 67%;
+  -webkit-transform: translateZ(240px);
+          transform: translateZ(240px);
 }
 
 section #galaxy #stars .star:nth-child(408) {
-  width: 5px;
-  height: 5px;
-  top: 51%;
-  left: 66%;
-  -webkit-transform: translateZ(93px);
-          transform: translateZ(93px);
+  width: 4px;
+  height: 4px;
+  top: 49%;
+  left: 65%;
+  -webkit-transform: translateZ(140px);
+          transform: translateZ(140px);
 }
 
 section #galaxy #stars .star:nth-child(409) {
-  width: 4px;
-  height: 4px;
-  top: 43%;
-  left: 7%;
-  -webkit-transform: translateZ(66px);
-          transform: translateZ(66px);
+  width: 3px;
+  height: 3px;
+  top: 58%;
+  left: 93%;
+  -webkit-transform: translateZ(199px);
+          transform: translateZ(199px);
 }
 
 section #galaxy #stars .star:nth-child(410) {
   width: 2px;
   height: 2px;
-  top: 64%;
-  left: 84%;
-  -webkit-transform: translateZ(179px);
-          transform: translateZ(179px);
+  top: 47%;
+  left: 57%;
+  -webkit-transform: translateZ(71px);
+          transform: translateZ(71px);
 }
 
 section #galaxy #stars .star:nth-child(411) {
-  width: 6px;
-  height: 6px;
-  top: 37%;
-  left: 85%;
-  -webkit-transform: translateZ(223px);
-          transform: translateZ(223px);
+  width: 3px;
+  height: 3px;
+  top: 76%;
+  left: 22%;
+  -webkit-transform: translateZ(289px);
+          transform: translateZ(289px);
 }
 
 section #galaxy #stars .star:nth-child(412) {
-  width: 5px;
-  height: 5px;
-  top: 78%;
-  left: 93%;
-  -webkit-transform: translateZ(358px);
-          transform: translateZ(358px);
+  width: 6px;
+  height: 6px;
+  top: 91%;
+  left: 43%;
+  -webkit-transform: translateZ(23px);
+          transform: translateZ(23px);
 }
 
 section #galaxy #stars .star:nth-child(413) {
   width: 4px;
   height: 4px;
-  top: 28%;
-  left: 90%;
-  -webkit-transform: translateZ(240px);
-          transform: translateZ(240px);
+  top: 33%;
+  left: 57%;
+  -webkit-transform: translateZ(264px);
+          transform: translateZ(264px);
 }
 
 section #galaxy #stars .star:nth-child(414) {
-  width: 2px;
-  height: 2px;
-  top: 78%;
-  left: 44%;
-  -webkit-transform: translateZ(368px);
-          transform: translateZ(368px);
+  width: 4px;
+  height: 4px;
+  top: 19%;
+  left: 43%;
+  -webkit-transform: translateZ(489px);
+          transform: translateZ(489px);
 }
 
 section #galaxy #stars .star:nth-child(415) {
-  width: 6px;
-  height: 6px;
-  top: 61%;
-  left: 68%;
-  -webkit-transform: translateZ(363px);
-          transform: translateZ(363px);
+  width: 4px;
+  height: 4px;
+  top: 75%;
+  left: 23%;
+  -webkit-transform: translateZ(70px);
+          transform: translateZ(70px);
 }
 
 section #galaxy #stars .star:nth-child(416) {
-  width: 3px;
-  height: 3px;
-  top: 86%;
-  left: 47%;
-  -webkit-transform: translateZ(295px);
-          transform: translateZ(295px);
+  width: 5px;
+  height: 5px;
+  top: 94%;
+  left: 87%;
+  -webkit-transform: translateZ(478px);
+          transform: translateZ(478px);
 }
 
 section #galaxy #stars .star:nth-child(417) {
-  width: 3px;
-  height: 3px;
-  top: 34%;
-  left: 47%;
-  -webkit-transform: translateZ(117px);
-          transform: translateZ(117px);
+  width: 6px;
+  height: 6px;
+  top: 16%;
+  left: 90%;
+  -webkit-transform: translateZ(230px);
+          transform: translateZ(230px);
 }
 
 section #galaxy #stars .star:nth-child(418) {
   width: 3px;
   height: 3px;
-  top: 68%;
-  left: 69%;
-  -webkit-transform: translateZ(41px);
-          transform: translateZ(41px);
+  top: 44%;
+  left: 82%;
+  -webkit-transform: translateZ(65px);
+          transform: translateZ(65px);
 }
 
 section #galaxy #stars .star:nth-child(419) {
-  width: 6px;
-  height: 6px;
-  top: 73%;
-  left: 77%;
-  -webkit-transform: translateZ(341px);
-          transform: translateZ(341px);
+  width: 3px;
+  height: 3px;
+  top: 33%;
+  left: 17%;
+  -webkit-transform: translateZ(127px);
+          transform: translateZ(127px);
 }
 
 section #galaxy #stars .star:nth-child(420) {
-  width: 2px;
-  height: 2px;
-  top: 55%;
-  left: 61%;
-  -webkit-transform: translateZ(175px);
-          transform: translateZ(175px);
+  width: 4px;
+  height: 4px;
+  top: 76%;
+  left: 23%;
+  -webkit-transform: translateZ(177px);
+          transform: translateZ(177px);
 }
 
 section #galaxy #stars .star:nth-child(421) {
-  width: 2px;
-  height: 2px;
-  top: 18%;
-  left: 48%;
-  -webkit-transform: translateZ(459px);
-          transform: translateZ(459px);
+  width: 6px;
+  height: 6px;
+  top: 80%;
+  left: 8%;
+  -webkit-transform: translateZ(483px);
+          transform: translateZ(483px);
 }
 
 section #galaxy #stars .star:nth-child(422) {
-  width: 3px;
-  height: 3px;
-  top: 57%;
-  left: 68%;
-  -webkit-transform: translateZ(297px);
-          transform: translateZ(297px);
+  width: 4px;
+  height: 4px;
+  top: 18%;
+  left: 43%;
+  -webkit-transform: translateZ(241px);
+          transform: translateZ(241px);
 }
 
 section #galaxy #stars .star:nth-child(423) {
   width: 5px;
   height: 5px;
-  top: 82%;
-  left: 52%;
-  -webkit-transform: translateZ(194px);
-          transform: translateZ(194px);
+  top: 58%;
+  left: 10%;
+  -webkit-transform: translateZ(11px);
+          transform: translateZ(11px);
 }
 
 section #galaxy #stars .star:nth-child(424) {
   width: 3px;
   height: 3px;
-  top: 19%;
-  left: 7%;
-  -webkit-transform: translateZ(463px);
-          transform: translateZ(463px);
+  top: 55%;
+  left: 41%;
+  -webkit-transform: translateZ(81px);
+          transform: translateZ(81px);
 }
 
 section #galaxy #stars .star:nth-child(425) {
   width: 5px;
   height: 5px;
-  top: 22%;
-  left: 94%;
-  -webkit-transform: translateZ(249px);
-          transform: translateZ(249px);
+  top: 55%;
+  left: 54%;
+  -webkit-transform: translateZ(195px);
+          transform: translateZ(195px);
 }
 
 section #galaxy #stars .star:nth-child(426) {
-  width: 6px;
-  height: 6px;
-  top: 8%;
-  left: 76%;
-  -webkit-transform: translateZ(245px);
-          transform: translateZ(245px);
+  width: 3px;
+  height: 3px;
+  top: 46%;
+  left: 10%;
+  -webkit-transform: translateZ(242px);
+          transform: translateZ(242px);
 }
 
 section #galaxy #stars .star:nth-child(427) {
-  width: 5px;
-  height: 5px;
-  top: 48%;
-  left: 72%;
-  -webkit-transform: translateZ(289px);
-          transform: translateZ(289px);
+  width: 6px;
+  height: 6px;
+  top: 45%;
+  left: 50%;
+  -webkit-transform: translateZ(110px);
+          transform: translateZ(110px);
 }
 
 section #galaxy #stars .star:nth-child(428) {
-  width: 3px;
-  height: 3px;
-  top: 78%;
-  left: 14%;
-  -webkit-transform: translateZ(72px);
-          transform: translateZ(72px);
+  width: 5px;
+  height: 5px;
+  top: 40%;
+  left: 20%;
+  -webkit-transform: translateZ(473px);
+          transform: translateZ(473px);
 }
 
 section #galaxy #stars .star:nth-child(429) {
   width: 5px;
   height: 5px;
-  top: 18%;
-  left: 84%;
-  -webkit-transform: translateZ(30px);
-          transform: translateZ(30px);
+  top: 65%;
+  left: 27%;
+  -webkit-transform: translateZ(281px);
+          transform: translateZ(281px);
 }
 
 section #galaxy #stars .star:nth-child(430) {
-  width: 2px;
-  height: 2px;
-  top: 88%;
-  left: 84%;
-  -webkit-transform: translateZ(392px);
-          transform: translateZ(392px);
+  width: 6px;
+  height: 6px;
+  top: 35%;
+  left: 71%;
+  -webkit-transform: translateZ(151px);
+          transform: translateZ(151px);
 }
 
 section #galaxy #stars .star:nth-child(431) {
-  width: 3px;
-  height: 3px;
-  top: 94%;
-  left: 4%;
-  -webkit-transform: translateZ(376px);
-          transform: translateZ(376px);
+  width: 5px;
+  height: 5px;
+  top: 57%;
+  left: 2%;
+  -webkit-transform: translateZ(224px);
+          transform: translateZ(224px);
 }
 
 section #galaxy #stars .star:nth-child(432) {
   width: 5px;
   height: 5px;
-  top: 57%;
-  left: 37%;
-  -webkit-transform: translateZ(32px);
-          transform: translateZ(32px);
+  top: 35%;
+  left: 17%;
+  -webkit-transform: translateZ(58px);
+          transform: translateZ(58px);
 }
 
 section #galaxy #stars .star:nth-child(433) {
-  width: 2px;
-  height: 2px;
-  top: 48%;
-  left: 22%;
-  -webkit-transform: translateZ(310px);
-          transform: translateZ(310px);
+  width: 6px;
+  height: 6px;
+  top: 35%;
+  left: 68%;
+  -webkit-transform: translateZ(160px);
+          transform: translateZ(160px);
 }
 
 section #galaxy #stars .star:nth-child(434) {
-  width: 4px;
-  height: 4px;
-  top: 62%;
-  left: 41%;
-  -webkit-transform: translateZ(380px);
-          transform: translateZ(380px);
+  width: 3px;
+  height: 3px;
+  top: 86%;
+  left: 69%;
+  -webkit-transform: translateZ(361px);
+          transform: translateZ(361px);
 }
 
 section #galaxy #stars .star:nth-child(435) {
-  width: 3px;
-  height: 3px;
-  top: 32%;
-  left: 95%;
-  -webkit-transform: translateZ(307px);
-          transform: translateZ(307px);
+  width: 5px;
+  height: 5px;
+  top: 79%;
+  left: 46%;
+  -webkit-transform: translateZ(422px);
+          transform: translateZ(422px);
 }
 
 section #galaxy #stars .star:nth-child(436) {
   width: 2px;
   height: 2px;
-  top: 56%;
-  left: 29%;
-  -webkit-transform: translateZ(72px);
-          transform: translateZ(72px);
+  top: 39%;
+  left: 24%;
+  -webkit-transform: translateZ(359px);
+          transform: translateZ(359px);
 }
 
 section #galaxy #stars .star:nth-child(437) {
-  width: 3px;
-  height: 3px;
-  top: 42%;
-  left: 73%;
-  -webkit-transform: translateZ(426px);
-          transform: translateZ(426px);
+  width: 5px;
+  height: 5px;
+  top: 5%;
+  left: 5%;
+  -webkit-transform: translateZ(68px);
+          transform: translateZ(68px);
 }
 
 section #galaxy #stars .star:nth-child(438) {
-  width: 3px;
-  height: 3px;
-  top: 79%;
-  left: 71%;
-  -webkit-transform: translateZ(303px);
-          transform: translateZ(303px);
+  width: 6px;
+  height: 6px;
+  top: 19%;
+  left: 88%;
+  -webkit-transform: translateZ(174px);
+          transform: translateZ(174px);
 }
 
 section #galaxy #stars .star:nth-child(439) {
-  width: 3px;
-  height: 3px;
-  top: 39%;
-  left: 34%;
-  -webkit-transform: translateZ(266px);
-          transform: translateZ(266px);
+  width: 4px;
+  height: 4px;
+  top: 73%;
+  left: 74%;
+  -webkit-transform: translateZ(268px);
+          transform: translateZ(268px);
 }
 
 section #galaxy #stars .star:nth-child(440) {
-  width: 6px;
-  height: 6px;
-  top: 44%;
-  left: 27%;
-  -webkit-transform: translateZ(316px);
-          transform: translateZ(316px);
+  width: 5px;
+  height: 5px;
+  top: 91%;
+  left: 38%;
+  -webkit-transform: translateZ(428px);
+          transform: translateZ(428px);
 }
 
 section #galaxy #stars .star:nth-child(441) {
-  width: 6px;
-  height: 6px;
-  top: 25%;
-  left: 74%;
-  -webkit-transform: translateZ(227px);
-          transform: translateZ(227px);
+  width: 4px;
+  height: 4px;
+  top: 75%;
+  left: 62%;
+  -webkit-transform: translateZ(182px);
+          transform: translateZ(182px);
 }
 
 section #galaxy #stars .star:nth-child(442) {
   width: 6px;
   height: 6px;
-  top: 35%;
-  left: 72%;
-  -webkit-transform: translateZ(234px);
-          transform: translateZ(234px);
+  top: 7%;
+  left: 22%;
+  -webkit-transform: translateZ(360px);
+          transform: translateZ(360px);
 }
 
 section #galaxy #stars .star:nth-child(443) {
-  width: 4px;
-  height: 4px;
-  top: 60%;
-  left: 77%;
-  -webkit-transform: translateZ(212px);
-          transform: translateZ(212px);
+  width: 3px;
+  height: 3px;
+  top: 13%;
+  left: 5%;
+  -webkit-transform: translateZ(398px);
+          transform: translateZ(398px);
 }
 
 section #galaxy #stars .star:nth-child(444) {
   width: 4px;
   height: 4px;
-  top: 88%;
+  top: 91%;
   left: 65%;
-  -webkit-transform: translateZ(378px);
-          transform: translateZ(378px);
+  -webkit-transform: translateZ(464px);
+          transform: translateZ(464px);
 }
 
 section #galaxy #stars .star:nth-child(445) {
-  width: 5px;
-  height: 5px;
-  top: 88%;
-  left: 40%;
-  -webkit-transform: translateZ(64px);
-          transform: translateZ(64px);
+  width: 2px;
+  height: 2px;
+  top: 95%;
+  left: 88%;
+  -webkit-transform: translateZ(44px);
+          transform: translateZ(44px);
 }
 
 section #galaxy #stars .star:nth-child(446) {
   width: 4px;
   height: 4px;
-  top: 61%;
-  left: 31%;
-  -webkit-transform: translateZ(23px);
-          transform: translateZ(23px);
+  top: 57%;
+  left: 48%;
+  -webkit-transform: translateZ(201px);
+          transform: translateZ(201px);
 }
 
 section #galaxy #stars .star:nth-child(447) {
-  width: 6px;
-  height: 6px;
-  top: 53%;
-  left: 70%;
-  -webkit-transform: translateZ(341px);
-          transform: translateZ(341px);
+  width: 4px;
+  height: 4px;
+  top: 36%;
+  left: 64%;
+  -webkit-transform: translateZ(195px);
+          transform: translateZ(195px);
 }
 
 section #galaxy #stars .star:nth-child(448) {
-  width: 5px;
-  height: 5px;
-  top: 67%;
-  left: 73%;
-  -webkit-transform: translateZ(123px);
-          transform: translateZ(123px);
+  width: 6px;
+  height: 6px;
+  top: 8%;
+  left: 14%;
+  -webkit-transform: translateZ(388px);
+          transform: translateZ(388px);
 }
 
 section #galaxy #stars .star:nth-child(449) {
-  width: 2px;
-  height: 2px;
-  top: 72%;
-  left: 35%;
-  -webkit-transform: translateZ(337px);
-          transform: translateZ(337px);
+  width: 5px;
+  height: 5px;
+  top: 10%;
+  left: 85%;
+  -webkit-transform: translateZ(486px);
+          transform: translateZ(486px);
 }
 
 section #galaxy #stars .star:nth-child(450) {
-  width: 6px;
-  height: 6px;
-  top: 78%;
-  left: 23%;
-  -webkit-transform: translateZ(211px);
-          transform: translateZ(211px);
+  width: 2px;
+  height: 2px;
+  top: 87%;
+  left: 65%;
+  -webkit-transform: translateZ(193px);
+          transform: translateZ(193px);
 }
 
 section #galaxy #stars .star:nth-child(451) {
-  width: 4px;
-  height: 4px;
-  top: 57%;
-  left: 24%;
-  -webkit-transform: translateZ(391px);
-          transform: translateZ(391px);
+  width: 3px;
+  height: 3px;
+  top: 56%;
+  left: 82%;
+  -webkit-transform: translateZ(71px);
+          transform: translateZ(71px);
 }
 
 section #galaxy #stars .star:nth-child(452) {
-  width: 6px;
-  height: 6px;
-  top: 67%;
-  left: 6%;
-  -webkit-transform: translateZ(300px);
-          transform: translateZ(300px);
+  width: 3px;
+  height: 3px;
+  top: 5%;
+  left: 12%;
+  -webkit-transform: translateZ(65px);
+          transform: translateZ(65px);
 }
 
 section #galaxy #stars .star:nth-child(453) {
-  width: 2px;
-  height: 2px;
-  top: 51%;
-  left: 90%;
-  -webkit-transform: translateZ(350px);
-          transform: translateZ(350px);
+  width: 4px;
+  height: 4px;
+  top: 5%;
+  left: 59%;
+  -webkit-transform: translateZ(197px);
+          transform: translateZ(197px);
 }
 
 section #galaxy #stars .star:nth-child(454) {
-  width: 6px;
-  height: 6px;
-  top: 39%;
-  left: 89%;
-  -webkit-transform: translateZ(33px);
-          transform: translateZ(33px);
+  width: 2px;
+  height: 2px;
+  top: 25%;
+  left: 42%;
+  -webkit-transform: translateZ(181px);
+          transform: translateZ(181px);
 }
 
 section #galaxy #stars .star:nth-child(455) {
-  width: 2px;
-  height: 2px;
-  top: 23%;
-  left: 84%;
-  -webkit-transform: translateZ(285px);
-          transform: translateZ(285px);
+  width: 5px;
+  height: 5px;
+  top: 8%;
+  left: 34%;
+  -webkit-transform: translateZ(350px);
+          transform: translateZ(350px);
 }
 
 section #galaxy #stars .star:nth-child(456) {
   width: 5px;
   height: 5px;
-  top: 41%;
-  left: 64%;
-  -webkit-transform: translateZ(210px);
-          transform: translateZ(210px);
+  top: 49%;
+  left: 84%;
+  -webkit-transform: translateZ(309px);
+          transform: translateZ(309px);
 }
 
 section #galaxy #stars .star:nth-child(457) {
-  width: 3px;
-  height: 3px;
-  top: 71%;
-  left: 66%;
-  -webkit-transform: translateZ(441px);
-          transform: translateZ(441px);
+  width: 5px;
+  height: 5px;
+  top: 57%;
+  left: 6%;
+  -webkit-transform: translateZ(422px);
+          transform: translateZ(422px);
 }
 
 section #galaxy #stars .star:nth-child(458) {
-  width: 2px;
-  height: 2px;
-  top: 1%;
-  left: 38%;
-  -webkit-transform: translateZ(7px);
-          transform: translateZ(7px);
+  width: 3px;
+  height: 3px;
+  top: 60%;
+  left: 81%;
+  -webkit-transform: translateZ(335px);
+          transform: translateZ(335px);
 }
 
 section #galaxy #stars .star:nth-child(459) {
-  width: 6px;
-  height: 6px;
-  top: 66%;
-  left: 44%;
-  -webkit-transform: translateZ(486px);
-          transform: translateZ(486px);
+  width: 4px;
+  height: 4px;
+  top: 19%;
+  left: 20%;
+  -webkit-transform: translateZ(114px);
+          transform: translateZ(114px);
 }
 
 section #galaxy #stars .star:nth-child(460) {
-  width: 4px;
-  height: 4px;
-  top: 39%;
-  left: 59%;
-  -webkit-transform: translateZ(6px);
-          transform: translateZ(6px);
+  width: 6px;
+  height: 6px;
+  top: 29%;
+  left: 84%;
+  -webkit-transform: translateZ(379px);
+          transform: translateZ(379px);
 }
 
 section #galaxy #stars .star:nth-child(461) {
-  width: 3px;
-  height: 3px;
-  top: 84%;
+  width: 5px;
+  height: 5px;
+  top: 62%;
   left: 32%;
-  -webkit-transform: translateZ(410px);
-          transform: translateZ(410px);
+  -webkit-transform: translateZ(61px);
+          transform: translateZ(61px);
 }
 
 section #galaxy #stars .star:nth-child(462) {
-  width: 3px;
-  height: 3px;
-  top: 62%;
-  left: 19%;
-  -webkit-transform: translateZ(391px);
-          transform: translateZ(391px);
+  width: 2px;
+  height: 2px;
+  top: 73%;
+  left: 22%;
+  -webkit-transform: translateZ(70px);
+          transform: translateZ(70px);
 }
 
 section #galaxy #stars .star:nth-child(463) {
-  width: 6px;
-  height: 6px;
-  top: 73%;
-  left: 30%;
-  -webkit-transform: translateZ(359px);
-          transform: translateZ(359px);
+  width: 4px;
+  height: 4px;
+  top: 51%;
+  left: 10%;
+  -webkit-transform: translateZ(160px);
+          transform: translateZ(160px);
 }
 
 section #galaxy #stars .star:nth-child(464) {
-  width: 4px;
-  height: 4px;
-  top: 16%;
-  left: 91%;
-  -webkit-transform: translateZ(351px);
-          transform: translateZ(351px);
+  width: 2px;
+  height: 2px;
+  top: 35%;
+  left: 32%;
+  -webkit-transform: translateZ(239px);
+          transform: translateZ(239px);
 }
 
 section #galaxy #stars .star:nth-child(465) {
-  width: 6px;
-  height: 6px;
-  top: 76%;
-  left: 58%;
-  -webkit-transform: translateZ(294px);
-          transform: translateZ(294px);
+  width: 3px;
+  height: 3px;
+  top: 59%;
+  left: 54%;
+  -webkit-transform: translateZ(472px);
+          transform: translateZ(472px);
 }
 
 section #galaxy #stars .star:nth-child(466) {
-  width: 6px;
-  height: 6px;
-  top: 66%;
-  left: 40%;
-  -webkit-transform: translateZ(361px);
-          transform: translateZ(361px);
+  width: 3px;
+  height: 3px;
+  top: 87%;
+  left: 93%;
+  -webkit-transform: translateZ(187px);
+          transform: translateZ(187px);
 }
 
 section #galaxy #stars .star:nth-child(467) {
-  width: 2px;
-  height: 2px;
-  top: 92%;
-  left: 81%;
-  -webkit-transform: translateZ(469px);
-          transform: translateZ(469px);
+  width: 4px;
+  height: 4px;
+  top: 77%;
+  left: 80%;
+  -webkit-transform: translateZ(123px);
+          transform: translateZ(123px);
 }
 
 section #galaxy #stars .star:nth-child(468) {
-  width: 6px;
-  height: 6px;
-  top: 15%;
-  left: 77%;
-  -webkit-transform: translateZ(250px);
-          transform: translateZ(250px);
+  width: 3px;
+  height: 3px;
+  top: 3%;
+  left: 56%;
+  -webkit-transform: translateZ(433px);
+          transform: translateZ(433px);
 }
 
 section #galaxy #stars .star:nth-child(469) {
-  width: 3px;
-  height: 3px;
-  top: 28%;
-  left: 67%;
-  -webkit-transform: translateZ(440px);
-          transform: translateZ(440px);
+  width: 2px;
+  height: 2px;
+  top: 7%;
+  left: 93%;
+  -webkit-transform: translateZ(152px);
+          transform: translateZ(152px);
 }
 
 section #galaxy #stars .star:nth-child(470) {
-  width: 5px;
-  height: 5px;
-  top: 2%;
-  left: 49%;
-  -webkit-transform: translateZ(176px);
-          transform: translateZ(176px);
+  width: 4px;
+  height: 4px;
+  top: 23%;
+  left: 35%;
+  -webkit-transform: translateZ(373px);
+          transform: translateZ(373px);
 }
 
 section #galaxy #stars .star:nth-child(471) {
   width: 2px;
   height: 2px;
-  top: 61%;
-  left: 64%;
-  -webkit-transform: translateZ(205px);
-          transform: translateZ(205px);
+  top: 22%;
+  left: 70%;
+  -webkit-transform: translateZ(161px);
+          transform: translateZ(161px);
 }
 
 section #galaxy #stars .star:nth-child(472) {
   width: 2px;
   height: 2px;
-  top: 13%;
-  left: 8%;
-  -webkit-transform: translateZ(468px);
-          transform: translateZ(468px);
+  top: 10%;
+  left: 72%;
+  -webkit-transform: translateZ(381px);
+          transform: translateZ(381px);
 }
 
 section #galaxy #stars .star:nth-child(473) {
-  width: 3px;
-  height: 3px;
-  top: 70%;
-  left: 18%;
-  -webkit-transform: translateZ(407px);
-          transform: translateZ(407px);
+  width: 4px;
+  height: 4px;
+  top: 35%;
+  left: 68%;
+  -webkit-transform: translateZ(367px);
+          transform: translateZ(367px);
 }
 
 section #galaxy #stars .star:nth-child(474) {
-  width: 4px;
-  height: 4px;
-  top: 40%;
-  left: 23%;
-  -webkit-transform: translateZ(186px);
-          transform: translateZ(186px);
+  width: 2px;
+  height: 2px;
+  top: 64%;
+  left: 34%;
+  -webkit-transform: translateZ(112px);
+          transform: translateZ(112px);
 }
 
 section #galaxy #stars .star:nth-child(475) {
-  width: 3px;
-  height: 3px;
-  top: 26%;
-  left: 63%;
-  -webkit-transform: translateZ(381px);
-          transform: translateZ(381px);
+  width: 2px;
+  height: 2px;
+  top: 64%;
+  left: 90%;
+  -webkit-transform: translateZ(234px);
+          transform: translateZ(234px);
 }
 
 section #galaxy #stars .star:nth-child(476) {
   width: 4px;
   height: 4px;
-  top: 31%;
-  left: 63%;
-  -webkit-transform: translateZ(491px);
-          transform: translateZ(491px);
+  top: 64%;
+  left: 55%;
+  -webkit-transform: translateZ(126px);
+          transform: translateZ(126px);
 }
 
 section #galaxy #stars .star:nth-child(477) {
-  width: 2px;
-  height: 2px;
-  top: 81%;
-  left: 14%;
-  -webkit-transform: translateZ(203px);
-          transform: translateZ(203px);
+  width: 4px;
+  height: 4px;
+  top: 21%;
+  left: 16%;
+  -webkit-transform: translateZ(166px);
+          transform: translateZ(166px);
 }
 
 section #galaxy #stars .star:nth-child(478) {
   width: 2px;
   height: 2px;
-  top: 73%;
-  left: 19%;
-  -webkit-transform: translateZ(318px);
-          transform: translateZ(318px);
+  top: 24%;
+  left: 21%;
+  -webkit-transform: translateZ(149px);
+          transform: translateZ(149px);
 }
 
 section #galaxy #stars .star:nth-child(479) {
-  width: 3px;
-  height: 3px;
-  top: 25%;
-  left: 87%;
-  -webkit-transform: translateZ(389px);
-          transform: translateZ(389px);
+  width: 2px;
+  height: 2px;
+  top: 7%;
+  left: 24%;
+  -webkit-transform: translateZ(91px);
+          transform: translateZ(91px);
 }
 
 section #galaxy #stars .star:nth-child(480) {
-  width: 5px;
-  height: 5px;
-  top: 11%;
-  left: 23%;
-  -webkit-transform: translateZ(189px);
-          transform: translateZ(189px);
+  width: 3px;
+  height: 3px;
+  top: 87%;
+  left: 9%;
+  -webkit-transform: translateZ(132px);
+          transform: translateZ(132px);
 }
 
 section #galaxy #stars .star:nth-child(481) {
-  width: 2px;
-  height: 2px;
-  top: 93%;
-  left: 23%;
-  -webkit-transform: translateZ(371px);
-          transform: translateZ(371px);
+  width: 5px;
+  height: 5px;
+  top: 85%;
+  left: 69%;
+  -webkit-transform: translateZ(479px);
+          transform: translateZ(479px);
 }
 
 section #galaxy #stars .star:nth-child(482) {
   width: 5px;
   height: 5px;
-  top: 14%;
-  left: 41%;
-  -webkit-transform: translateZ(418px);
-          transform: translateZ(418px);
+  top: 38%;
+  left: 39%;
+  -webkit-transform: translateZ(472px);
+          transform: translateZ(472px);
 }
 
 section #galaxy #stars .star:nth-child(483) {
-  width: 3px;
-  height: 3px;
-  top: 88%;
-  left: 7%;
-  -webkit-transform: translateZ(151px);
-          transform: translateZ(151px);
+  width: 2px;
+  height: 2px;
+  top: 30%;
+  left: 62%;
+  -webkit-transform: translateZ(55px);
+          transform: translateZ(55px);
 }
 
 section #galaxy #stars .star:nth-child(484) {
-  width: 5px;
-  height: 5px;
-  top: 80%;
-  left: 58%;
-  -webkit-transform: translateZ(352px);
-          transform: translateZ(352px);
+  width: 2px;
+  height: 2px;
+  top: 16%;
+  left: 23%;
+  -webkit-transform: translateZ(430px);
+          transform: translateZ(430px);
 }
 
 section #galaxy #stars .star:nth-child(485) {
-  width: 3px;
-  height: 3px;
-  top: 42%;
-  left: 12%;
-  -webkit-transform: translateZ(500px);
-          transform: translateZ(500px);
+  width: 2px;
+  height: 2px;
+  top: 47%;
+  left: 40%;
+  -webkit-transform: translateZ(345px);
+          transform: translateZ(345px);
 }
 
 section #galaxy #stars .star:nth-child(486) {
-  width: 6px;
-  height: 6px;
-  top: 45%;
-  left: 82%;
-  -webkit-transform: translateZ(248px);
-          transform: translateZ(248px);
+  width: 4px;
+  height: 4px;
+  top: 14%;
+  left: 57%;
+  -webkit-transform: translateZ(109px);
+          transform: translateZ(109px);
 }
 
 section #galaxy #stars .star:nth-child(487) {
+  width: 4px;
+  height: 4px;
+  top: 72%;
+  left: 83%;
+  -webkit-transform: translateZ(59px);
+          transform: translateZ(59px);
+}
+
+section #galaxy #stars .star:nth-child(488) {
+  width: 4px;
+  height: 4px;
+  top: 45%;
+  left: 62%;
+  -webkit-transform: translateZ(312px);
+          transform: translateZ(312px);
+}
+
+section #galaxy #stars .star:nth-child(489) {
   width: 5px;
   height: 5px;
-  top: 42%;
-  left: 36%;
+  top: 46%;
+  left: 63%;
   -webkit-transform: translateZ(342px);
           transform: translateZ(342px);
 }
 
-section #galaxy #stars .star:nth-child(488) {
-  width: 5px;
-  height: 5px;
-  top: 25%;
-  left: 2%;
-  -webkit-transform: translateZ(380px);
-          transform: translateZ(380px);
-}
-
-section #galaxy #stars .star:nth-child(489) {
+section #galaxy #stars .star:nth-child(490) {
   width: 6px;
   height: 6px;
-  top: 57%;
-  left: 76%;
-  -webkit-transform: translateZ(272px);
-          transform: translateZ(272px);
-}
-
-section #galaxy #stars .star:nth-child(490) {
-  width: 3px;
-  height: 3px;
-  top: 44%;
-  left: 64%;
-  -webkit-transform: translateZ(173px);
-          transform: translateZ(173px);
+  top: 18%;
+  left: 7%;
+  -webkit-transform: translateZ(213px);
+          transform: translateZ(213px);
 }
 
 section #galaxy #stars .star:nth-child(491) {
-  width: 2px;
-  height: 2px;
-  top: 57%;
-  left: 60%;
-  -webkit-transform: translateZ(270px);
-          transform: translateZ(270px);
-}
-
-section #galaxy #stars .star:nth-child(492) {
-  width: 2px;
-  height: 2px;
-  top: 40%;
-  left: 68%;
-  -webkit-transform: translateZ(372px);
-          transform: translateZ(372px);
-}
-
-section #galaxy #stars .star:nth-child(493) {
-  width: 4px;
-  height: 4px;
-  top: 81%;
-  left: 23%;
+  width: 3px;
+  height: 3px;
+  top: 17%;
+  left: 36%;
   -webkit-transform: translateZ(491px);
           transform: translateZ(491px);
 }
 
-section #galaxy #stars .star:nth-child(494) {
+section #galaxy #stars .star:nth-child(492) {
+  width: 4px;
+  height: 4px;
+  top: 61%;
+  left: 50%;
+  -webkit-transform: translateZ(406px);
+          transform: translateZ(406px);
+}
+
+section #galaxy #stars .star:nth-child(493) {
   width: 6px;
   height: 6px;
-  top: 92%;
-  left: 5%;
-  -webkit-transform: translateZ(52px);
-          transform: translateZ(52px);
+  top: 82%;
+  left: 42%;
+  -webkit-transform: translateZ(88px);
+          transform: translateZ(88px);
+}
+
+section #galaxy #stars .star:nth-child(494) {
+  width: 3px;
+  height: 3px;
+  top: 56%;
+  left: 71%;
+  -webkit-transform: translateZ(232px);
+          transform: translateZ(232px);
 }
 
 section #galaxy #stars .star:nth-child(495) {
-  width: 4px;
-  height: 4px;
-  top: 42%;
-  left: 63%;
-  -webkit-transform: translateZ(309px);
-          transform: translateZ(309px);
+  width: 5px;
+  height: 5px;
+  top: 94%;
+  left: 62%;
+  -webkit-transform: translateZ(416px);
+          transform: translateZ(416px);
 }
 
 section #galaxy #stars .star:nth-child(496) {
   width: 2px;
   height: 2px;
-  top: 16%;
-  left: 63%;
-  -webkit-transform: translateZ(270px);
-          transform: translateZ(270px);
+  top: 21%;
+  left: 65%;
+  -webkit-transform: translateZ(114px);
+          transform: translateZ(114px);
 }
 
 section #galaxy #stars .star:nth-child(497) {
   width: 4px;
   height: 4px;
-  top: 10%;
-  left: 52%;
-  -webkit-transform: translateZ(412px);
-          transform: translateZ(412px);
+  top: 18%;
+  left: 37%;
+  -webkit-transform: translateZ(198px);
+          transform: translateZ(198px);
 }
 
 section #galaxy #stars .star:nth-child(498) {
-  width: 6px;
-  height: 6px;
-  top: 84%;
-  left: 53%;
-  -webkit-transform: translateZ(105px);
-          transform: translateZ(105px);
+  width: 3px;
+  height: 3px;
+  top: 42%;
+  left: 54%;
+  -webkit-transform: translateZ(273px);
+          transform: translateZ(273px);
 }
 
 section #galaxy #stars .star:nth-child(499) {
-  width: 2px;
-  height: 2px;
-  top: 76%;
-  left: 74%;
-  -webkit-transform: translateZ(13px);
-          transform: translateZ(13px);
+  width: 6px;
+  height: 6px;
+  top: 48%;
+  left: 55%;
+  -webkit-transform: translateZ(449px);
+          transform: translateZ(449px);
 }
 
 section #galaxy #stars .star:nth-child(500) {
-  width: 5px;
-  height: 5px;
-  top: 84%;
-  left: 73%;
-  -webkit-transform: translateZ(170px);
-          transform: translateZ(170px);
+  width: 6px;
+  height: 6px;
+  top: 80%;
+  left: 17%;
+  -webkit-transform: translateZ(484px);
+          transform: translateZ(484px);
 }
 
-section #galaxy #planets {
+section #galaxy #text {
   -webkit-transform-style: preserve-3d;
           transform-style: preserve-3d;
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
   color: #fff;
   font-size: 50px;
   font-weight: 700;
   position: absolute;
   top: 50%;
   left: 50%;
-  -webkit-transform: translateX(-50%) translateY(-50%) translateZ(300px);
-          transform: translateX(-50%) translateY(-50%) translateZ(300px);
+  -webkit-transform: translateX(-50%) translateY(-50%) translateZ(501px);
+          transform: translateX(-50%) translateY(-50%) translateZ(501px);
+}
+
+section #galaxy #galaxy_bg {
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+  background: url(../img/space.jpg);
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  -webkit-transform: translateZ(100px) scale(1.5);
+          transform: translateZ(100px) scale(1.5);
 }
 /*# sourceMappingURL=style.css.map */
