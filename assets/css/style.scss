@@ -34,8 +34,8 @@ section {
                 .star:nth-child(#{$i}) {
                     width: 1 + $radius + px;
                     height: 1 + $radius + px;
-                    top: random($limit: 95) + %;
-                    left: random($limit: 95) + %;
+                    top: #{random($limit: 95) + '%'};
+                    left: #{random($limit: 95) + '%'};
                     transform: translateZ(random($limit: 500) + px);
                 }
             }
